@@ -30,7 +30,7 @@
     <td>2022</td>
     <td>Exploratory data analysis (EDA)</td>
     <td></td>
-    <td>PD1<br>Wykonać EDA</td>
+    <td>PD1<br>Wykonanie EDA</td>
     <td>3 pkt</td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@
     <td>2022</td>
     <td>Drzewa wzmocnione gradientowo</td>
     <td></td>
-    <td>PD2<br>Wykorzystać model drzewiasty i xgboost</td>
+    <td>PD2<br>Wykorzystanie modelu drzewiastego i wzmocnionego gradientem</td>
     <td>3 pkt</td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@
     <td>2022</td>
     <td>Prezentacja modeli</td>
     <td>KM2</td>
-    <td>KM3<br>Dostrajanie i diagnostyka modeli</td>
+    <td>KM3<br>Dostrojenie i diagnostyka modeli</td>
     <td>10 pkt</td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@
     <td>2022</td>
     <td>XAI</td>
     <td></td>
-    <td>PD4<br>wyszkolić model i wykonać XAI / załadować użyty model i wykorzystując XAI wytłumaczyć czy działa on dobrze i dlaczego </td>
+    <td>PD4<br>Wytrenowanie modelu z wykorzystaniem XAI</td>
     <td>3 pkt</td>
   </tr>
   <tr>
@@ -148,10 +148,11 @@
   - główne wyniki pracy [0-10 punktów]
   - wnioski [0-8 punktów]  
   - jakość wykresów/wizualizacji/diagramów [0-4 punktów]
-- Prezentacja - [0-16 punktów] 
-- Praca na zajęcia - [0-48 punktów]: 
+- Prezentacja [0-16 punktów] 
+- Praca na zajęcia [0-48 punktów]: 
   - 4 prace domowe - [0-12 punktów]
   - 4 kamienie milowe - [0-36 punktów]
+- Jakość kodu oraz  raportu [0-4 punktów]
 
 | Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
   |:---:|:---:|:---:|:---:|:---:|:---:|
