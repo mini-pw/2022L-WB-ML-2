@@ -19,15 +19,15 @@
 <tbody>
   <tr>
     <td>1</td>
-    <td>2022</td>
+    <td>24-02-2022</td>
     <td>Wstęp do zajęć, oraz omówienie projektów i popularnych jounali</td>
     <td></td>
-    <td>KM1<br>Zapoznanie się z artykułem i wykonanie EDA </td>
+    <td>KM1<br>Zapoznanie się z danymi i wykonanie EDA </td>
     <td>6 pkt</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>2022</td>
+    <td>03-03-2022</td>
     <td>Exploratory data analysis (EDA)</td>
     <td></td>
     <td>PD1<br>Wykonanie EDA</td>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>3</td>
-    <td>2022</td>
+    <td>10-03-2022</td>
     <td>Przypomnienie podstaw ML</td>
     <td>PD1</td>
     <td></td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>2022</td>
+    <td>17-03-2022</td>
     <td>Omówienie modeli drzewiastych</td>
     <td>KM1 </td>
     <td>KM2<br>Przygotowanie danych i wyszkolenie wstępnych modeli ML</td>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>5</td>
-    <td>2022</td>
+    <td>24-03-2022</td>
     <td>Drzewa wzmocnione gradientowo</td>
     <td></td>
     <td>PD2<br>Wykorzystanie modelu drzewiastego i wzmocnionego gradientem</td>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>6</td>
-    <td>2022</td>
+    <td>31-03-2022</td>
     <td>Prezentacja EDA</td>
     <td>PD2</td>
     <td></td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>7</td>
-    <td>2022</td>
+    <td>07-04-2022</td>
     <td>Prezentacja modeli</td>
     <td>KM2</td>
     <td>KM3<br>Dostrojenie i diagnostyka modeli</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>8</td>
-    <td>2022</td>
+    <td>14-04-2022</td>
     <td>Dokładniejsze spojrzenie na metryki</td>
     <td></td>
     <td>PD3<br>Zapoznanie się z 2 problemami i zaproponowanie odpowiednich metryk ewaluacji wyniku </td>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>9</td>
-    <td>2022</td>
+    <td>21-04-2022</td>
     <td>Diagnostyka modeli</td>
     <td>PD3</td>
     <td></td>
@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td>10</td>
-    <td>2022</td>
+    <td>28-04-2022</td>
     <td>Reprodukowalność artykułów ML</td>
     <td>KM3</td>
     <td>KM4<br>XAI - wyjaśnienie działania modeli</td>
@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td>11</td>
-    <td>2022</td>
+    <td>05-05-2022</td>
     <td>XAI</td>
     <td></td>
     <td>PD4<br>Wytrenowanie modelu z wykorzystaniem XAI</td>
@@ -107,7 +107,7 @@
   </tr>
   <tr>
     <td>12</td>
-    <td>2022</td>
+    <td>19-05-2022</td>
     <td>Omówienie ciekawych artykułów naukowych </td>
     <td>PD4</td>
     <td></td>
@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <td>13</td>
-    <td>2022</td>
+    <td>26-05-2022</td>
     <td>Prezentacja XAI</td>
     <td>KM 4</td>
     <td></td>
@@ -123,7 +123,7 @@
   </tr>
   <tr>
     <td>14</td>
-    <td>2022</td>
+    <td>02-06-2022</td>
     <td>Prezentacja projektu</td>
     <td>Prezentacja podsumowująca projekt</td>
     <td></td>
@@ -131,7 +131,7 @@
   </tr>
   <tr>
     <td>15</td>
-    <td>2022</td>
+    <td>09-06-2022</td>
     <td>Podsumowanie przedmiotu</td>
     <td>Raport końcowy</td>
     <td></td>
