@@ -1,0 +1,955 @@
+Miasto,Powiat,Województwo,Powierzchnia,Liczba ludności,Gęstość zaludnienia,link,lat,lng,SIMC,Kategoria
+Aleksandrów Kujawski,aleksandrowski,kujawsko-pomorskie,723,12058,1668,https://pl.wikipedia.org/wiki/Aleksandr%C3%B3w_Kujawski,52.876389,18.693333,0985384,>10k
+Aleksandrów Łódzki,zgierski,łódzkie,1382,21754,1574,https://pl.wikipedia.org/wiki/Aleksandr%C3%B3w_%C5%81%C3%B3dzki,51.819444,19.304444,0958654,>10k
+Alwernia,chrzanowski,małopolskie,888,3336,376,https://pl.wikipedia.org/wiki/Alwernia,50.0625,19.541944,0314454,<10k
+Andrychów,wadowicki,małopolskie,1033,19837,1920,https://pl.wikipedia.org/wiki/Andrych%C3%B3w,49.855,19.341111,0924023,>10k
+Annopol,kraśnicki,lubelskie,773,2436,315,https://pl.wikipedia.org/wiki/Annopol,50.885556,21.857778,0786213,<10k
+Augustów,augustowski,podlaskie,8090,29946,370,https://pl.wikipedia.org/wiki/August%C3%B3w,53.843611,22.9775,0977539,>10k
+Babimost,zielonogórski,lubuskie,365,3901,1069,https://pl.wikipedia.org/wiki/Babimost,52.1649,15.829081,0988342,<10k
+Baborów,głubczycki,opolskie,1186,2861,241,https://pl.wikipedia.org/wiki/Babor%C3%B3w,50.157778,17.98,0965200,<10k
+Baranów Sandomierski,tarnobrzeski,podkarpackie,915,1430,156,https://pl.wikipedia.org/wiki/Baran%C3%B3w_Sandomierski,50.499722,21.541389,0980352,<10k
+Barcin,żniński,kujawsko-pomorskie,370,7313,1976,https://pl.wikipedia.org/wiki/Barcin,52.863889,17.947222,0928825,<10k
+Barczewo,olsztyński,warmińsko-mazurskie,458,7509,1640,https://pl.wikipedia.org/wiki/Barczewo,53.836667,20.695278,0964577,<10k
+Bardo,ząbkowicki,dolnośląskie,471,2497,530,https://pl.wikipedia.org/wiki/Bardo_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie),50.508611,16.743889,0983801,<10k
+Barlinek,myśliborski,zachodniopomorskie,1755,13611,776,https://pl.wikipedia.org/wiki/Barlinek,52.992222,15.216389,0935268,>10k
+Bartoszyce,bartoszycki,warmińsko-mazurskie,1179,22984,1949,https://pl.wikipedia.org/wiki/Bartoszyce,54.248889,20.808056,0964583,>10k
+Barwice,szczecinecki,zachodniopomorskie,752,3677,489,https://pl.wikipedia.org/wiki/Barwice,53.744722,16.355278,0949649,<10k
+Bełchatów,bełchatowski,łódzkie,3464,56419,1629,https://pl.wikipedia.org/wiki/Be%C5%82chat%C3%B3w,51.363611,19.362222,0967647,>50k
+Bełżyce,lubelski,lubelskie,2346,6399,273,https://pl.wikipedia.org/wiki/Be%C5%82%C5%BCyce,51.174267,22.280239,0955555,<10k
+Będzin,będziński,śląskie,3737,56008,1499,https://pl.wikipedia.org/wiki/B%C4%99dzin,50.323889,19.129167,0937899,>50k
+Biała,prudnicki,opolskie,1472,2390,162,https://pl.wikipedia.org/wiki/Bia%C5%82a_(miasto),50.385556,17.664167,0965223,<10k
+Biała Piska,piski,warmińsko-mazurskie,324,4047,1249,https://pl.wikipedia.org/wiki/Bia%C5%82a_Piska,53.611389,22.063056,0977640,<10k
+Biała Podlaska,Biała Podlaska[a],lubelskie,4940,56942,1153,https://pl.wikipedia.org/wiki/Bia%C5%82a_Podlaska,52.033333,23.116667,0922018,>50k
+Biała Rawska,rawski,łódzkie,953,3132,329,https://pl.wikipedia.org/wiki/Bia%C5%82a_Rawska,51.8075,20.471944,0977019,<10k
+Białobrzegi,białobrzeski,mazowieckie,751,6853,913,https://pl.wikipedia.org/wiki/Bia%C5%82obrzegi,51.648611,20.95,0973286,<10k
+Białogard,białogardzki,zachodniopomorskie,2573,23950,931,https://pl.wikipedia.org/wiki/Bia%C5%82ogard,54.003056,15.992222,0949690,>10k
+Biały Bór,szczecinecki,zachodniopomorskie,1282,2208,172,https://pl.wikipedia.org/wiki/Bia%C5%82y_B%C3%B3r,53.898611,16.837778,0949767,<10k
+Białystok,Białystok[a],podlaskie,10213,296958,2908,https://pl.wikipedia.org/wiki/Bia%C5%82ystok,53.135278,23.145556,0922410,>250k
+Biecz,gorlicki,małopolskie,1771,4549,257,https://pl.wikipedia.org/wiki/Biecz,49.731944,21.2625,0952752,<10k
+Bielawa,dzierżoniowski,dolnośląskie,3621,29523,815,https://pl.wikipedia.org/wiki/Bielawa,50.683056,16.611111,0983818,>10k
+Bielsk Podlaski,bielski,podlaskie,2701,25044,927,https://pl.wikipedia.org/wiki/Bielsk_Podlaski,52.768333,23.191944,0922685,>10k
+Bielsko-Biała,Bielsko-Biała[a],śląskie,12451,169756,1363,https://pl.wikipedia.org/wiki/Bielsko-Bia%C5%82a,49.8225,19.044444,0923584,>100k
+Bieruń,bieruńsko-lędziński,śląskie,4049,19375,479,https://pl.wikipedia.org/wiki/Bieru%C5%84,50.089722,19.092778,0938077,>10k
+Bierutów,oleśnicki,dolnośląskie,836,4809,575,https://pl.wikipedia.org/wiki/Bierut%C3%B3w,51.123611,17.5425,0987035,<10k
+Bieżuń,żuromiński,mazowieckie,1207,1829,152,https://pl.wikipedia.org/wiki/Bie%C5%BCu%C5%84,52.961389,19.890833,0111981,<10k
+Biłgoraj,biłgorajski,lubelskie,2110,26114,1238,https://pl.wikipedia.org/wiki/Bi%C5%82goraj,50.540833,22.721944,0987673,>10k
+Biskupiec,olsztyński,warmińsko-mazurskie,500,10628,2126,https://pl.wikipedia.org/wiki/Biskupiec,53.863056,20.955833,0964590,>10k
+Bisztynek,bartoszycki,warmińsko-mazurskie,216,2328,1078,https://pl.wikipedia.org/wiki/Bisztynek,54.085556,20.9,0964608,<10k
+Blachownia,częstochowski,śląskie,3666,9457,258,https://pl.wikipedia.org/wiki/Blachownia,50.777778,18.975,0931365,<10k
+Błaszki,sieradzki,łódzkie,162,2047,1264,https://pl.wikipedia.org/wiki/B%C5%82aszki,51.651944,18.433333,0976267,<10k
+Błażowa,rzeszowski,podkarpackie,423,2148,508,https://pl.wikipedia.org/wiki/B%C5%82a%C5%BCowa,49.883333,22.099444,0974280,<10k
+Błonie,warszawski zachodni,mazowieckie,909,12134,1335,https://pl.wikipedia.org/wiki/B%C5%82onie,52.196667,20.616944,0920249,>10k
+Bobolice,koszaliński,zachodniopomorskie,477,3957,830,https://pl.wikipedia.org/wiki/Bobolice,53.954722,16.587778,0949804,<10k
+Bobowa,gorlicki,małopolskie,718,3137,437,https://pl.wikipedia.org/wiki/Bobowa,49.708611,20.944722,0417728,<10k
+Bochnia,bocheński,małopolskie,2987,29554,989,https://pl.wikipedia.org/wiki/Bochnia,49.968889,20.43,0981682,>10k
+Bodzentyn,kielecki,świętokrzyskie,865,2190,253,https://pl.wikipedia.org/wiki/Bodzentyn,50.940833,20.957778,0230102,<10k
+Bogatynia,zgorzelecki,dolnośląskie,5988,17037,285,https://pl.wikipedia.org/wiki/Bogatynia,50.9075,14.953889,0935908,>10k
+Boguchwała,rzeszowski,podkarpackie,911,6140,674,https://pl.wikipedia.org/wiki/Boguchwa%C5%82a,49.983056,21.939722,0644750,<10k
+Boguszów-Gorce,wałbrzyski,dolnośląskie,2702,15154,561,https://pl.wikipedia.org/wiki/Bogusz%C3%B3w-Gorce,50.756111,16.205,0983824,>10k
+Bojanowo,rawicki,wielkopolskie,234,2915,1246,https://pl.wikipedia.org/wiki/Bojanowo,51.707222,16.749444,0954308,<10k
+Bolesławiec,bolesławiecki,dolnośląskie,2357,38486,1633,https://pl.wikipedia.org/wiki/Boles%C5%82awiec,51.263889,15.560833,0935989,>10k
+Bolków,jaworski,dolnośląskie,768,4913,640,https://pl.wikipedia.org/wiki/Bolk%C3%B3w,50.921944,16.101944,0935995,<10k
+Borek Wielkopolski,gostyński,wielkopolskie,629,2500,397,https://pl.wikipedia.org/wiki/Borek_Wielkopolski,51.916389,17.243056,0954343,<10k
+Borne Sulinowo,szczecinecki,zachodniopomorskie,1815,5052,278,https://pl.wikipedia.org/wiki/Borne_Sulinowo,53.581111,16.533333,0988715,<10k
+Braniewo,braniewski,warmińsko-mazurskie,1241,16974,1368,https://pl.wikipedia.org/wiki/Braniewo,54.379444,19.819722,0932710,>10k
+Brańsk,bielski,podlaskie,3243,3694,114,https://pl.wikipedia.org/wiki/Bra%C5%84sk,52.745556,22.833333,0922745,<10k
+Brodnica,brodnicki,kujawsko-pomorskie,2315,28701,1240,https://pl.wikipedia.org/wiki/Brodnica,53.259722,19.395556,0982954,>10k
+Brok,ostrowski,mazowieckie,2806,1904,68,https://pl.wikipedia.org/wiki/Brok,52.7,21.859722,0966151,<10k
+Brusy,chojnicki,pomorskie,520,5221,1004,https://pl.wikipedia.org/wiki/Brusy,53.885556,17.721944,0928848,<10k
+Brwinów,pruszkowski,mazowieckie,1468,13710,934,https://pl.wikipedia.org/wiki/Brwin%C3%B3w,52.1425,20.7175,0920284,>10k
+Brzeg,brzeski,opolskie,1461,35226,2411,https://pl.wikipedia.org/wiki/Brzeg_(miasto),50.860278,17.467222,0965252,>10k
+Brzeg Dolny,wołowski,dolnośląskie,1720,12480,726,https://pl.wikipedia.org/wiki/Brzeg_Dolny,51.270833,16.720833,0987064,>10k
+Brzesko,brzeski,małopolskie,1192,16764,1406,https://pl.wikipedia.org/wiki/Brzesko,49.968889,20.606389,0981966,>10k
+Brzeszcze,oświęcimski,małopolskie,1904,11092,583,https://pl.wikipedia.org/wiki/Brzeszcze,49.980556,19.151944,0938120,>10k
+Brześć Kujawski,włocławski,kujawsko-pomorskie,704,4563,648,https://pl.wikipedia.org/wiki/Brze%C5%9B%C4%87_Kujawski,52.605,18.898056,0985444,<10k
+Brzeziny,brzeziński,łódzkie,2158,12365,573,https://pl.wikipedia.org/wiki/Brzeziny,51.800278,19.751389,0977025,>10k
+Brzostek,dębicki,podkarpackie,876,2749,314,https://pl.wikipedia.org/wiki/Brzostek,49.879167,21.411944,0814493,<10k
+Brzozów,brzozowski,podkarpackie,1146,7425,648,https://pl.wikipedia.org/wiki/Brzoz%C3%B3w,49.695278,22.019444,0952841,<10k
+Budzyń,chodzieski,wielkopolskie,4059,4475,110,https://pl.wikipedia.org/wiki/Budzy%C5%84,52.889444,16.988611,0524393,<10k
+Buk,poznański,wielkopolskie,296,5948,2009,https://pl.wikipedia.org/wiki/Buk_(wojew%C3%B3dztwo_wielkopolskie),52.356667,16.5175,0970520,<10k
+Bukowno,olkuski,małopolskie,6459,9976,154,https://pl.wikipedia.org/wiki/Bukowno,50.268056,19.463056,0938404,<10k
+Busko-Zdrój,buski,świętokrzyskie,1228,15611,1271,https://pl.wikipedia.org/wiki/Busko-Zdr%C3%B3j,50.470556,20.718889,0946651,>10k
+Bychawa,lubelski,lubelskie,669,4814,720,https://pl.wikipedia.org/wiki/Bychawa,51.015833,22.532778,0955621,<10k
+Byczyna,kluczborski,opolskie,579,3532,610,https://pl.wikipedia.org/wiki/Byczyna,51.113056,18.211111,0965275,<10k
+Bydgoszcz,Bydgoszcz[a],kujawsko-pomorskie,17598,344091,1955,https://pl.wikipedia.org/wiki/Bydgoszcz,53.125,18.011111,0928363,>250k
+Bystrzyca Kłodzka,kłodzki,dolnośląskie,1074,9878,920,https://pl.wikipedia.org/wiki/Bystrzyca_K%C5%82odzka,50.299444,16.653333,0983899,<10k
+Bytom,Bytom[a],śląskie,6944,163255,2351,https://pl.wikipedia.org/wiki/Bytom,50.348333,18.915556,0938670,>100k
+Bytom Odrzański,nowosolski,lubuskie,230,4244,1845,https://pl.wikipedia.org/wiki/Bytom_Odrza%C5%84ski,51.731111,15.821944,0988359,<10k
+Bytów,bytowski,pomorskie,872,16833,1930,https://pl.wikipedia.org/wiki/Byt%C3%B3w,54.171111,17.490833,0977290,>10k
+Cedynia,gryfiński,zachodniopomorskie,167,1497,896,https://pl.wikipedia.org/wiki/Cedynia,52.879167,14.202222,0978734,<10k
+Chełm,Chełm[a],lubelskie,3528,61135,1733,https://pl.wikipedia.org/wiki/Che%C5%82m,51.132222,23.477778,0929902,>50k
+Chełmek,oświęcimski,małopolskie,827,8912,1078,https://pl.wikipedia.org/wiki/Che%C5%82mek,50.099722,19.248611,0924098,<10k
+Chełmno,chełmiński,kujawsko-pomorskie,1356,19205,1416,https://pl.wikipedia.org/wiki/Che%C5%82mno,53.349167,18.422778,0983066,>10k
+Chełmża,toruński,kujawsko-pomorskie,784,14362,1832,https://pl.wikipedia.org/wiki/Che%C5%82m%C5%BCa,53.186667,18.603611,0983126,>10k
+Chęciny,kielecki,świętokrzyskie,1413,4394,311,https://pl.wikipedia.org/wiki/Ch%C4%99ciny,50.802778,20.467222,0946846,<10k
+Chmielnik,kielecki,świętokrzyskie,780,3596,461,https://pl.wikipedia.org/wiki/Chmielnik_(wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie),50.611667,20.749722,0946906,<10k
+Chocianów,polkowicki,dolnośląskie,900,7773,864,https://pl.wikipedia.org/wiki/Chocian%C3%B3w,51.417222,15.901389,0954060,<10k
+Chociwel,stargardzki,zachodniopomorskie,367,3123,851,https://pl.wikipedia.org/wiki/Chociwel,53.466944,15.333611,0978757,<10k
+Chocz,pleszewski,wielkopolskie,688,1769,257,https://pl.wikipedia.org/wiki/Chocz,51.975278,17.870278,0195564,<10k
+Chodecz,włocławski,kujawsko-pomorskie,190,2279,1199,https://pl.wikipedia.org/wiki/Chodecz,52.405278,19.028333,0985562,<10k
+Chodzież,chodzieski,wielkopolskie,1277,18229,1427,https://pl.wikipedia.org/wiki/Chodzie%C5%BC,52.99,16.912222,0966760,>10k
+Chojna,gryfiński,zachodniopomorskie,1258,7367,586,https://pl.wikipedia.org/wiki/Chojna,52.963333,14.426944,0978786,<10k
+Chojnice,chojnicki,pomorskie,2104,39647,1884,https://pl.wikipedia.org/wiki/Chojnice,53.694167,17.556389,0928854,>10k
+Chojnów,legnicki,dolnośląskie,532,13236,2488,https://pl.wikipedia.org/wiki/Chojn%C3%B3w,51.271111,15.930556,0954076,>10k
+Choroszcz,białostocki,podlaskie,1679,5926,353,https://pl.wikipedia.org/wiki/Choroszcz,53.143056,22.985556,0922811,<10k
+Chorzele,przasnyski,mazowieckie,1751,3100,177,https://pl.wikipedia.org/wiki/Chorzele,53.261111,20.899167,0966270,<10k
+Chorzów,Chorzów[a],śląskie,3324,106846,3214,https://pl.wikipedia.org/wiki/Chorz%C3%B3w,50.3,18.95,0938887,>100k
+Choszczno,choszczeński,zachodniopomorskie,958,14998,1566,https://pl.wikipedia.org/wiki/Choszczno,53.169167,15.419444,0935280,>10k
+Chrzanów,chrzanowski,małopolskie,3832,36118,943,https://pl.wikipedia.org/wiki/Chrzan%C3%B3w,50.141111,19.403889,0938982,>10k
+Ciechanowiec,wysokomazowiecki,podlaskie,1953,4587,235,https://pl.wikipedia.org/wiki/Ciechanowiec,52.686111,22.491667,0957324,<10k
+Ciechanów,ciechanowski,mazowieckie,3278,43883,1339,https://pl.wikipedia.org/wiki/Ciechan%C3%B3w,52.881667,20.610556,0930414,>10k
+Ciechocinek,aleksandrowski,kujawsko-pomorskie,1526,10534,690,https://pl.wikipedia.org/wiki/Ciechocinek,52.878056,18.781667,0985616,>10k
+Cieszanów,lubaczowski,podkarpackie,1506,1922,128,https://pl.wikipedia.org/wiki/Cieszan%C3%B3w,50.245278,23.129444,0972051,<10k
+Cieszyn,cieszyński,śląskie,2861,33981,1188,https://pl.wikipedia.org/wiki/Cieszyn,49.75,18.633333,0924158,>10k
+Ciężkowice,tarnowski,małopolskie,999,2447,245,https://pl.wikipedia.org/wiki/Ci%C4%99%C5%BCkowice,49.786111,20.973611,0815239,<10k
+Cybinka,słubicki,lubuskie,529,2768,523,https://pl.wikipedia.org/wiki/Cybinka,52.194444,14.795833,0988365,<10k
+Czaplinek,drawski,zachodniopomorskie,1362,7094,521,https://pl.wikipedia.org/wiki/Czaplinek,53.558056,16.233056,0949810,<10k
+Czarna Białostocka,białostocki,podlaskie,1428,9198,644,https://pl.wikipedia.org/wiki/Czarna_Bia%C5%82ostocka,53.305278,23.282222,0922886,<10k
+Czarna Woda,starogardzki,pomorskie,994,2763,278,https://pl.wikipedia.org/wiki/Czarna_Woda_(miasto),53.844444,18.1,0162139,<10k
+Czarne,człuchowski,pomorskie,4643,5830,126,https://pl.wikipedia.org/wiki/Czarne,53.683889,16.939722,0977309,<10k
+Czarnków,czarnkowsko-trzcianecki,wielkopolskie,1017,10464,1029,https://pl.wikipedia.org/wiki/Czarnk%C3%B3w,52.904444,16.564167,0966777,>10k
+Czchów,brzeski,małopolskie,1409,2323,165,https://pl.wikipedia.org/wiki/Czch%C3%B3w,49.833889,20.673056,0816871,<10k
+Czechowice-Dziedzice,bielski,śląskie,3291,35839,1089,https://pl.wikipedia.org/wiki/Czechowice-Dziedzice,49.911331,19.0075,0939094,>10k
+Czeladź,będziński,śląskie,1638,31039,1895,https://pl.wikipedia.org/wiki/Czelad%C5%BA_(miasto),50.317222,19.070278,0939349,>10k
+Czempiń,kościański,wielkopolskie,332,4932,1486,https://pl.wikipedia.org/wiki/Czempi%C5%84,52.142833,16.75915,0970537,<10k
+Czerniejewo,gnieźnieński,wielkopolskie,1019,2671,262,https://pl.wikipedia.org/wiki/Czerniejewo,52.429167,17.491667,0970543,<10k
+Czersk,chojnicki,pomorskie,973,9900,1017,https://pl.wikipedia.org/wiki/Czersk,53.792778,17.973889,0928920,<10k
+Czerwieńsk,zielonogórski,lubuskie,936,3947,422,https://pl.wikipedia.org/wiki/Czerwie%C5%84sk,52.015556,15.405,0988371,<10k
+Czerwińsk nad Wisłą,płoński,mazowieckie,548,1010,184,https://pl.wikipedia.org/wiki/Czerwi%C5%84sk_nad_Wis%C5%82%C4%85,52.397222,20.309167,0561885[4],<10k
+Czerwionka-Leszczyny,rybnicki,śląskie,3763,27888,741,https://pl.wikipedia.org/wiki/Czerwionka-Leszczyny,50.148889,18.677222,0939409,>10k
+Częstochowa,Częstochowa[a],śląskie,15971,217530,1362,https://pl.wikipedia.org/wiki/Cz%C4%99stochowa,50.817778,19.138333,0930868,>100k
+Człopa,wałecki,zachodniopomorskie,627,2308,368,https://pl.wikipedia.org/wiki/Cz%C5%82opa,53.088611,16.120833,0966808,<10k
+Człuchów,człuchowski,pomorskie,1278,13479,1055,https://pl.wikipedia.org/wiki/Cz%C5%82uch%C3%B3w,53.664444,17.36,0977321,>10k
+Czyżew,wysokomazowiecki,podlaskie,523,2646,506,https://pl.wikipedia.org/wiki/Czy%C5%BCew,52.795833,22.329167,0395984,<10k
+Ćmielów,ostrowiecki,świętokrzyskie,1334,2984,224,https://pl.wikipedia.org/wiki/%C4%86miel%C3%B3w,50.890278,21.514722,0980435,<10k
+Daleszyce,kielecki,świętokrzyskie,1550,2856,184,https://pl.wikipedia.org/wiki/Daleszyce,50.803611,20.8075,0236429,<10k
+Darłowo,sławieński,zachodniopomorskie,2021,13574,672,https://pl.wikipedia.org/wiki/Dar%C5%82owo,54.420833,16.410556,0949833,>10k
+Dąbie,kolski,wielkopolskie,880,1982,225,https://pl.wikipedia.org/wiki/D%C4%85bie,52.090556,18.822222,0948992,<10k
+Dąbrowa Białostocka,sokólski,podlaskie,2264,5402,239,https://pl.wikipedia.org/wiki/D%C4%85browa_Bia%C5%82ostocka,53.653611,23.348611,0922923,<10k
+Dąbrowa Górnicza,Dąbrowa Górnicza[a],śląskie,18873,118285,627,https://pl.wikipedia.org/wiki/D%C4%85browa_G%C3%B3rnicza,50.321389,19.187222,0939473,>100k
+Dąbrowa Tarnowska,dąbrowski,małopolskie,2320,11844,511,https://pl.wikipedia.org/wiki/D%C4%85browa_Tarnowska,50.174722,20.986389,0982167,>10k
+Debrzno,człuchowski,pomorskie,751,5020,668,https://pl.wikipedia.org/wiki/Debrzno,53.538056,17.236111,0977338,<10k
+Dębica,dębicki,podkarpackie,3383,45189,1336,https://pl.wikipedia.org/wiki/D%C4%99bica,50.051389,21.411667,0982233,>10k
+Dęblin,rycki,lubelskie,3833,15887,414,https://pl.wikipedia.org/wiki/D%C4%99blin,51.566667,21.861389,0955740,>10k
+Dębno,myśliborski,zachodniopomorskie,1951,13626,698,https://pl.wikipedia.org/wiki/D%C4%99bno,52.738889,14.697778,0935305,>10k
+Dobczyce,myślenicki,małopolskie,1297,6425,495,https://pl.wikipedia.org/wiki/Dobczyce,49.883056,20.095833,0951505,<10k
+Dobiegniew,strzelecko-drezdenecki,lubuskie,569,3017,530,https://pl.wikipedia.org/wiki/Dobiegniew,52.97,15.753056,0935334,<10k
+Dobra,łobeski,zachodniopomorskie,184,1352,735,https://pl.wikipedia.org/wiki/Dobra_(powiat_%C5%82obeski),53.585556,15.306944,0978852,<10k
+Dobra,turecki,wielkopolskie,237,2296,969,https://pl.wikipedia.org/wiki/Dobra_(powiat_turecki),51.916233,18.615361,0949000,<10k
+Dobre Miasto,olsztyński,warmińsko-mazurskie,486,10010,2060,https://pl.wikipedia.org/wiki/Dobre_Miasto,53.9875,20.395833,0964614,>10k
+Dobrodzień,oleski,opolskie,1953,3665,188,https://pl.wikipedia.org/wiki/Dobrodzie%C5%84,50.727778,18.444444,0931454,<10k
+Dobrzany,stargardzki,zachodniopomorskie,534,2218,415,https://pl.wikipedia.org/wiki/Dobrzany,53.358611,15.426111,0978875,<10k
+Dobrzyca,pleszewski,wielkopolskie,1970,3112,158,https://pl.wikipedia.org/wiki/Dobrzyca,51.865,17.601944,0196380,<10k
+Dobrzyń nad Wisłą,lipnowski,kujawsko-pomorskie,541,2072,383,https://pl.wikipedia.org/wiki/Dobrzy%C5%84_nad_Wis%C5%82%C4%85,52.637778,19.321389,0985651,<10k
+Dolsk,śremski,wielkopolskie,620,1553,250,https://pl.wikipedia.org/wiki/Dolsk,51.986667,17.065833,0970589,<10k
+Drawno,choszczeński,zachodniopomorskie,503,2250,447,https://pl.wikipedia.org/wiki/Drawno,53.219722,15.759167,0935357,<10k
+Drawsko Pomorskie,drawski,zachodniopomorskie,2233,11417,511,https://pl.wikipedia.org/wiki/Drawsko_Pomorskie,53.531389,15.811111,0949862,>10k
+Drezdenko,strzelecko-drezdenecki,lubuskie,1072,9978,931,https://pl.wikipedia.org/wiki/Drezdenko,52.835833,15.831111,0935400,<10k
+Drobin,płocki,mazowieckie,965,2821,292,https://pl.wikipedia.org/wiki/Drobin,52.738056,19.990278,0563223,<10k
+Drohiczyn,siemiatycki,podlaskie,1569,1932,123,https://pl.wikipedia.org/wiki/Drohiczyn_(Polska),52.397222,22.659167,0922998,<10k
+Drzewica,opoczyński,łódzkie,481,3803,791,https://pl.wikipedia.org/wiki/Drzewica_(wojew%C3%B3dztwo_%C5%82%C3%B3dzkie),51.446944,20.471944,0973346,<10k
+Dubiecko,przemyski,podkarpackie,239,866,362,https://pl.wikipedia.org/wiki/Dubiecko,49.825556,22.39,0600496,<10k
+Dukla,krośnieński,podkarpackie,548,2044,373,https://pl.wikipedia.org/wiki/Dukla,49.555556,21.683333,0952924,<10k
+Duszniki-Zdrój,kłodzki,dolnośląskie,2228,4422,198,https://pl.wikipedia.org/wiki/Duszniki-Zdr%C3%B3j,50.404167,16.390556,0983913,<10k
+Dynów,rzeszowski,podkarpackie,2455,6063,247,https://pl.wikipedia.org/wiki/Dyn%C3%B3w,49.814722,22.231667,0972080,<10k
+Działdowo,działdowski,warmińsko-mazurskie,1147,21145,1844,https://pl.wikipedia.org/wiki/Dzia%C5%82dowo,53.236111,20.177778,0930609,>10k
+Działoszyce,pińczowski,świętokrzyskie,192,902,470,https://pl.wikipedia.org/wiki/Dzia%C5%82oszyce,50.365,20.3525,0946987,<10k
+Działoszyn,pajęczański,łódzkie,494,5746,1163,https://pl.wikipedia.org/wiki/Dzia%C5%82oszyn,51.117778,18.87,0703026,<10k
+Dzierzgoń,sztumski,pomorskie,390,5320,1364,https://pl.wikipedia.org/wiki/Dzierzgo%C5%84,53.923333,19.351389,0932726,<10k
+Dzierżoniów,dzierżoniowski,dolnośląskie,2007,32869,1638,https://pl.wikipedia.org/wiki/Dzier%C5%BConi%C3%B3w,50.728056,16.651111,0983988,>10k
+Dziwnów,kamieński,zachodniopomorskie,652,2647,406,https://pl.wikipedia.org/wiki/Dziwn%C3%B3w,54.017444,14.738222,0774782,<10k
+Elbląg,Elbląg[a],warmińsko-mazurskie,7982,118582,1486,https://pl.wikipedia.org/wiki/Elbl%C4%85g,54.158333,19.402778,0932703,>100k
+Ełk,ełcki,warmińsko-mazurskie,2105,61903,2941,https://pl.wikipedia.org/wiki/E%C5%82k,53.821389,22.362222,0977670,>50k
+Frampol,biłgorajski,lubelskie,467,1432,307,https://pl.wikipedia.org/wiki/Frampol,50.671389,22.670556,0887196,<10k
+Frombork,braniewski,warmińsko-mazurskie,759,2305,304,https://pl.wikipedia.org/wiki/Frombork,54.358333,19.683056,0932732,<10k
+Garwolin,garwoliński,mazowieckie,2208,17548,795,https://pl.wikipedia.org/wiki/Garwolin,51.896944,21.615,0975285,>10k
+Gąbin,płocki,mazowieckie,2795,4082,146,https://pl.wikipedia.org/wiki/G%C4%85bin,52.399722,19.730556,0968871,<10k
+Gdańsk,Gdańsk[a],pomorskie,26196,470805,1797,https://pl.wikipedia.org/wiki/Gda%C5%84sk,54.3475,18.645278,0933016,>250k
+Gdynia,Gdynia[a],pomorskie,13514,244969,1813,https://pl.wikipedia.org/wiki/Gdynia,54.519167,18.539444,0934100,>100k
+Giżycko,giżycki,warmińsko-mazurskie,1372,28964,2111,https://pl.wikipedia.org/wiki/Gi%C5%BCycko,54.04,21.758889,0977692,>10k
+Glinojeck,ciechanowski,mazowieckie,737,2976,404,https://pl.wikipedia.org/wiki/Glinojeck,52.818056,20.286111,0114620,<10k
+Gliwice,Gliwice[a],śląskie,13388,177049,1322,https://pl.wikipedia.org/wiki/Gliwice,50.292222,18.6675,0940000,>100k
+Głogów,głogowski,dolnośląskie,3511,66120,1883,https://pl.wikipedia.org/wiki/G%C5%82og%C3%B3w,51.659167,16.080556,0954082,>50k
+Głogów Małopolski,rzeszowski,podkarpackie,3820,9800,257,https://pl.wikipedia.org/wiki/G%C5%82og%C3%B3w_Ma%C5%82opolski,50.151111,21.962778,0974328,<10k
+Głogówek,prudnicki,opolskie,2206,5563,252,https://pl.wikipedia.org/wiki/G%C5%82og%C3%B3wek,50.343889,17.867222,0965281,<10k
+Głowno,zgierski,łódzkie,1984,13961,704,https://pl.wikipedia.org/wiki/G%C5%82owno,51.964167,19.711667,0958714,>10k
+Głubczyce,głubczycki,opolskie,1254,12441,992,https://pl.wikipedia.org/wiki/G%C5%82ubczyce,50.2,17.834167,0965329,>10k
+Głuchołazy,nyski,opolskie,683,13388,1960,https://pl.wikipedia.org/wiki/G%C5%82ucho%C5%82azy,50.313056,17.374167,0965341,>10k
+Głuszyca,wałbrzyski,dolnośląskie,1621,6246,385,https://pl.wikipedia.org/wiki/G%C5%82uszyca,50.686389,16.371389,0984002,<10k
+Gniew,tczewski,pomorskie,604,6608,1094,https://pl.wikipedia.org/wiki/Gniew_(miasto),53.835556,18.8225,0934470,<10k
+Gniewkowo,inowrocławski,kujawsko-pomorskie,918,7060,769,https://pl.wikipedia.org/wiki/Gniewkowo,52.895,18.406389,0928937,<10k
+Gniezno,gnieźnieński,wielkopolskie,4060,67570,1664,https://pl.wikipedia.org/wiki/Gniezno,52.545,17.603611,0970632,>50k
+Gogolin,krapkowicki,opolskie,2035,6765,332,https://pl.wikipedia.org/wiki/Gogolin,50.488056,18.023889,0965364,<10k
+Golczewo,kamieński,zachodniopomorskie,742,2673,360,https://pl.wikipedia.org/wiki/Golczewo,53.826111,14.981944,0978881,<10k
+Goleniów,goleniowski,zachodniopomorskie,1178,21979,1866,https://pl.wikipedia.org/wiki/Goleni%C3%B3w,53.565278,14.830556,0978929,>10k
+Golina,koniński,wielkopolskie,352,4450,1264,https://pl.wikipedia.org/wiki/Golina,52.242778,18.092778,0949017,<10k
+Golub-Dobrzyń,golubsko-dobrzyński,kujawsko-pomorskie,750,12412,1655,https://pl.wikipedia.org/wiki/Golub-Dobrzy%C5%84,53.1125,19.051389,0983155,>10k
+Gołańcz,wągrowiecki,wielkopolskie,1264,3158,250,https://pl.wikipedia.org/wiki/Go%C5%82a%C5%84cz,52.943889,17.299444,0966820,<10k
+Gołdap,gołdapski,warmińsko-mazurskie,1720,13600,791,https://pl.wikipedia.org/wiki/Go%C5%82dap,54.316111,22.309444,0977700,>10k
+Goniądz,moniecki,podlaskie,428,1819,425,https://pl.wikipedia.org/wiki/Goni%C4%85dz,53.489722,22.733333,0957360,<10k
+Goraj,biłgorajski,lubelskie,762,917,120,https://pl.wikipedia.org/wiki/Goraj,50.720278,22.667778,0887693,<10k
+Gorlice,gorlicki,małopolskie,2353,26973,1146,https://pl.wikipedia.org/wiki/Gorlice,49.654444,21.159167,0959903,>10k
+Gorzów Śląski,oleski,opolskie,1854,2439,132,https://pl.wikipedia.org/wiki/Gorz%C3%B3w_%C5%9Al%C4%85ski,51.028333,18.424444,0931490,<10k
+Gorzów Wielkopolski,Gorzów Wielkopolski[a],lubuskie,8572,122589,1430,https://pl.wikipedia.org/wiki/Gorz%C3%B3w_Wielkopolski,52.730833,15.238333,0935140,>100k
+Gostynin,gostyniński,mazowieckie,3240,18355,567,https://pl.wikipedia.org/wiki/Gostynin,52.429167,19.461667,0968977,>10k
+Gostyń,gostyński,wielkopolskie,1109,20250,1826,https://pl.wikipedia.org/wiki/Gosty%C5%84,51.886111,17.0125,0954395,>10k
+Gościno,kołobrzeski,zachodniopomorskie,570,2439,428,https://pl.wikipedia.org/wiki/Go%C5%9Bcino,54.050833,15.6525,0306236,<10k
+Gozdnica,żagański,lubuskie,2392,2977,124,https://pl.wikipedia.org/wiki/Gozdnica,51.438889,15.095556,0988388,<10k
+Góra,górowski,dolnośląskie,1365,11574,848,https://pl.wikipedia.org/wiki/G%C3%B3ra_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie),51.668056,16.539444,0954449,>10k
+Góra Kalwaria,piaseczyński,mazowieckie,1367,11988,877,https://pl.wikipedia.org/wiki/G%C3%B3ra_Kalwaria,51.984722,21.213889,0920321,>10k
+Górowo Iławeckie,bartoszycki,warmińsko-mazurskie,332,3887,1171,https://pl.wikipedia.org/wiki/G%C3%B3rowo_I%C5%82aweckie,54.284444,20.495556,0964643,<10k
+Górzno,brodnicki,kujawsko-pomorskie,343,1403,409,https://pl.wikipedia.org/wiki/G%C3%B3rzno,53.198333,19.644444,0983244,<10k
+Grabów nad Prosną,ostrzeszowski,wielkopolskie,258,1912,741,https://pl.wikipedia.org/wiki/Grab%C3%B3w_nad_Prosn%C4%85,51.505,18.120833,0936760,<10k
+Grajewo,grajewski,podlaskie,1894,21709,1146,https://pl.wikipedia.org/wiki/Grajewo,53.646667,22.455,0957376,>10k
+Grodków,brzeski,opolskie,988,8501,860,https://pl.wikipedia.org/wiki/Grodk%C3%B3w,50.698056,17.384444,0965401,<10k
+Grodzisk Mazowiecki,grodziski,mazowieckie,1319,32452,2460,https://pl.wikipedia.org/wiki/Grodzisk_Mazowiecki,52.106389,20.631667,0920380,>10k
+Grodzisk Wielkopolski,grodziski,wielkopolskie,1821,14713,808,https://pl.wikipedia.org/wiki/Grodzisk_Wielkopolski,52.225,16.366667,0970810,>10k
+Grójec,grójecki,mazowieckie,857,16785,1959,https://pl.wikipedia.org/wiki/Gr%C3%B3jec,51.865556,20.8675,0973352,>10k
+Grudziądz,Grudziądz[a],kujawsko-pomorskie,5776,93564,1620,https://pl.wikipedia.org/wiki/Grudzi%C4%85dz,53.486944,18.756944,0983333,>50k
+Grybów,nowosądecki,małopolskie,1695,5986,353,https://pl.wikipedia.org/wiki/Gryb%C3%B3w,49.624444,20.948333,0960042,<10k
+Gryfice,gryficki,zachodniopomorskie,1240,16212,1307,https://pl.wikipedia.org/wiki/Gryfice,53.916389,15.199722,0979053,>10k
+Gryfino,gryfiński,zachodniopomorskie,1181,20923,1772,https://pl.wikipedia.org/wiki/Gryfino,53.253056,14.4875,0979076,>10k
+Gryfów Śląski,lwówecki,dolnośląskie,663,6509,982,https://pl.wikipedia.org/wiki/Gryf%C3%B3w_%C5%9Al%C4%85ski,51.027222,15.419167,0936003,<10k
+Gubin,krośnieński,lubuskie,2068,16528,799,https://pl.wikipedia.org/wiki/Gubin,51.946797,14.727731,0988394,>10k
+Hajnówka,hajnowski,podlaskie,2129,20265,952,https://pl.wikipedia.org/wiki/Hajn%C3%B3wka,52.738889,23.583333,0923035,>10k
+Halinów,miński,mazowieckie,284,3714,1308,https://pl.wikipedia.org/wiki/Halin%C3%B3w,52.225833,21.352778,0002766,<10k
+Hel,pucki,pomorskie,2295,3212,140,https://pl.wikipedia.org/wiki/Hel_(miasto),54.611667,18.808056,0934501,<10k
+Hrubieszów,hrubieszowski,lubelskie,3303,17232,522,https://pl.wikipedia.org/wiki/Hrubiesz%C3%B3w,50.8025,23.891944,0987800,>10k
+Iława,iławski,warmińsko-mazurskie,2188,33206,1518,https://pl.wikipedia.org/wiki/I%C5%82awa,53.596389,19.565556,0964650,>10k
+Iłowa,żagański,lubuskie,918,3844,419,https://pl.wikipedia.org/wiki/I%C5%82owa,51.501944,15.205833,0988402,<10k
+Iłża,radomski,mazowieckie,1583,4642,293,https://pl.wikipedia.org/wiki/I%C5%82%C5%BCa,51.162222,21.236944,0973375,<10k
+Imielin,bieruńsko-lędziński,śląskie,2799,9269,331,https://pl.wikipedia.org/wiki/Imielin,50.145278,19.185833,0941582,<10k
+Inowrocław,inowrocławski,kujawsko-pomorskie,3042,71674,2356,https://pl.wikipedia.org/wiki/Inowroc%C5%82aw,52.795833,18.261111,0928989,>50k
+Ińsko,stargardzki,zachodniopomorskie,748,1892,253,https://pl.wikipedia.org/wiki/I%C5%84sko,53.435833,15.550278,0979099,<10k
+Iwonicz-Zdrój,krośnieński,podkarpackie,589,1742,296,https://pl.wikipedia.org/wiki/Iwonicz-Zdr%C3%B3j,49.573333,21.793611,0953007,<10k
+Izbica Kujawska,włocławski,kujawsko-pomorskie,224,2594,1158,https://pl.wikipedia.org/wiki/Izbica_Kujawska,52.419444,18.760278,0985734,<10k
+Jabłonowo Pomorskie,brodnicki,kujawsko-pomorskie,335,3730,1113,https://pl.wikipedia.org/wiki/Jab%C5%82onowo_Pomorskie,53.388889,19.152778,0983474,<10k
+Janikowo,inowrocławski,kujawsko-pomorskie,951,8638,908,https://pl.wikipedia.org/wiki/Janikowo,52.747778,18.113056,0929109,<10k
+Janowiec Wielkopolski,żniński,kujawsko-pomorskie,304,3897,1282,https://pl.wikipedia.org/wiki/Janowiec_Wielkopolski,52.756944,17.488056,0929167,<10k
+Janów Lubelski,janowski,lubelskie,1480,11661,788,https://pl.wikipedia.org/wiki/Jan%C3%B3w_Lubelski,50.706667,22.410556,0980493,>10k
+Jaraczewo,jarociński,wielkopolskie,1007,1403,139,https://pl.wikipedia.org/wiki/Jaraczewo,51.970278,17.296167,0199088,<10k
+Jarocin,jarociński,wielkopolskie,2196,26453,1205,https://pl.wikipedia.org/wiki/Jarocin,51.973611,17.501111,0936776,>10k
+Jarosław,jarosławski,podkarpackie,3461,37073,1071,https://pl.wikipedia.org/wiki/Jaros%C5%82aw_(wojew%C3%B3dztwo_podkarpackie),50.018611,22.679722,0972192,>10k
+Jasień,żarski,lubuskie,479,4215,880,https://pl.wikipedia.org/wiki/Jasie%C5%84_(wojew%C3%B3dztwo_lubuskie),51.751389,15.0175,0988431,<10k
+Jasło,jasielski,podkarpackie,3652,34542,946,https://pl.wikipedia.org/wiki/Jas%C5%82o,49.747778,21.471389,0953059,>10k
+Jastarnia,pucki,pomorskie,506,2679,529,https://pl.wikipedia.org/wiki/Jastarnia,54.699444,18.676667,0934518,<10k
+Jastrowie,złotowski,wielkopolskie,7230,8580,119,https://pl.wikipedia.org/wiki/Jastrowie,53.421667,16.815556,0966843,<10k
+Jastrzębie-Zdrój,Jastrzębie-Zdrój[a],śląskie,8533,88038,1032,https://pl.wikipedia.org/wiki/Jastrz%C4%99bie-Zdr%C3%B3j,49.950278,18.575278,0940163,>50k
+Jawor,jaworski,dolnośląskie,1880,22462,1195,https://pl.wikipedia.org/wiki/Jawor_(miasto),51.048611,16.196944,0954120,>10k
+Jaworzno,Jaworzno[a],śląskie,15259,90368,592,https://pl.wikipedia.org/wiki/Jaworzno,50.204444,19.27,0940335,>50k
+Jaworzyna Śląska,świdnicki,dolnośląskie,434,5118,1179,https://pl.wikipedia.org/wiki/Jaworzyna_%C5%9Al%C4%85ska,50.912778,16.431944,0984019,<10k
+Jedlicze,krośnieński,podkarpackie,1060,5658,534,https://pl.wikipedia.org/wiki/Jedlicze,49.716389,21.645556,0953237,<10k
+Jedlina-Zdrój,wałbrzyski,dolnośląskie,1745,4789,274,https://pl.wikipedia.org/wiki/Jedlina-Zdr%C3%B3j,50.721111,16.338889,0984025,<10k
+Jedwabne,łomżyński,podlaskie,454,1607,354,https://pl.wikipedia.org/wiki/Jedwabne,53.286111,22.3025,0957382,<10k
+Jelcz-Laskowice,oławski,dolnośląskie,1706,15648,917,https://pl.wikipedia.org/wiki/Jelcz-Laskowice,51.035278,17.341111,0987118,>10k
+Jelenia Góra,Jelenia Góra[a],dolnośląskie,10922,78335,717,https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra,50.903889,15.736389,0935802,>50k
+Jeziorany,olsztyński,warmińsko-mazurskie,341,3135,919,https://pl.wikipedia.org/wiki/Jeziorany,53.978611,20.746389,0964703,<10k
+Jędrzejów,jędrzejowski,świętokrzyskie,1137,14812,1303,https://pl.wikipedia.org/wiki/J%C4%99drzej%C3%B3w,50.639444,20.304167,0947030,>10k
+Jordanów,suski,małopolskie,2103,5152,245,https://pl.wikipedia.org/wiki/Jordan%C3%B3w,49.649167,19.83,0960154,<10k
+Józefów,biłgorajski,lubelskie,500,2473,495,https://pl.wikipedia.org/wiki/J%C3%B3zef%C3%B3w_(powiat_bi%C5%82gorajski),50.48345,23.049989,0987897,<10k
+Józefów,otwocki,mazowieckie,2391,20741,867,https://pl.wikipedia.org/wiki/J%C3%B3zef%C3%B3w_(powiat_otwocki),52.135556,21.236944,0920404,>10k
+Józefów nad Wisłą,opolski,lubelskie,365,902,247,https://pl.wikipedia.org/wiki/J%C3%B3zef%C3%B3w_nad_Wis%C5%82%C4%85,51.040833,21.829167,0382036,<10k
+Jutrosin,rawicki,wielkopolskie,162,1966,1214,https://pl.wikipedia.org/wiki/Jutrosin,51.651389,17.169444,0954461,<10k
+Kalety,tarnogórski,śląskie,7629,8548,112,https://pl.wikipedia.org/wiki/Kalety,50.565,18.8825,0931589,<10k
+Kalisz,Kalisz[a],wielkopolskie,6942,99106,1428,https://pl.wikipedia.org/wiki/Kalisz,51.7625,18.089722,0936569,>50k
+Kalisz Pomorski,drawski,zachodniopomorskie,1196,4363,365,https://pl.wikipedia.org/wiki/Kalisz_Pomorski,53.298333,15.905833,0949916,<10k
+Kalwaria Zebrzydowska,wadowicki,małopolskie,550,4469,813,https://pl.wikipedia.org/wiki/Kalwaria_Zebrzydowska,49.868056,19.676944,0924253,<10k
+Kałuszyn,miński,mazowieckie,1230,2862,233,https://pl.wikipedia.org/wiki/Ka%C5%82uszyn,52.208333,21.811667,0975380,<10k
+Kamienna Góra,kamiennogórski,dolnośląskie,1299,4467,344,https://pl.wikipedia.org/wiki/Kamienna_G%C3%B3ra,50.784167,16.035556,0936026,<10k
+Kamieniec Ząbkowicki,ząbkowicki,dolnośląskie,1804,18585,1030,https://pl.wikipedia.org/wiki/Kamieniec_Z%C4%85bkowicki,50.526389,16.878056,0852631,>10k
+Kamień Krajeński,sępoleński,kujawsko-pomorskie,365,2335,640,https://pl.wikipedia.org/wiki/Kamie%C5%84_Kraje%C5%84ski,53.533333,17.519444,0929210,<10k
+Kamień Pomorski,kamieński,zachodniopomorskie,1074,8677,808,https://pl.wikipedia.org/wiki/Kamie%C5%84_Pomorski,53.968889,14.779167,0979113,<10k
+Kamieńsk,radomszczański,łódzkie,1199,2703,225,https://pl.wikipedia.org/wiki/Kamie%C5%84sk,51.204444,19.496944,0541180,<10k
+Kamionka,lubartowski,lubelskie,589,1712,291,https://pl.wikipedia.org/wiki/Kamionka_(powiat_lubartowski),51.470556,22.463056,0382480,<10k
+Kańczuga,przeworski,podkarpackie,760,3131,412,https://pl.wikipedia.org/wiki/Ka%C5%84czuga,49.983333,22.411667,0972424,<10k
+Karczew,otwocki,mazowieckie,2812,9811,349,https://pl.wikipedia.org/wiki/Karczew,52.078056,21.250833,0920500,<10k
+Kargowa,zielonogórski,lubuskie,455,3774,829,https://pl.wikipedia.org/wiki/Kargowa,52.071944,15.865278,0988448,<10k
+Karlino,białogardzki,zachodniopomorskie,940,5862,624,https://pl.wikipedia.org/wiki/Karlino,54.035278,15.876944,0949968,<10k
+Karpacz,karkonoski,dolnośląskie,3799,4487,118,https://pl.wikipedia.org/wiki/Karpacz,50.778333,15.757222,0936032,<10k
+Kartuzy,kartuski,pomorskie,735,14276,1942,https://pl.wikipedia.org/wiki/Kartuzy,54.335,18.201389,0934547,>10k
+Katowice,Katowice[a],śląskie,16464,290553,1765,https://pl.wikipedia.org/wiki/Katowice,50.264167,19.023611,0937474,>250k
+Kazimierz Dolny,puławski,lubelskie,3044,2534,83,https://pl.wikipedia.org/wiki/Kazimierz_Dolny,51.322069,21.945747,0955905,<10k
+Kazimierza Wielka,kazimierski,świętokrzyskie,614,5429,884,https://pl.wikipedia.org/wiki/Kazimierza_Wielka,50.273611,20.484444,0947076,<10k
+Kąty Wrocławskie,wrocławski,dolnośląskie,861,7028,816,https://pl.wikipedia.org/wiki/K%C4%85ty_Wroc%C5%82awskie,51.030833,16.7675,0987124,<10k
+Kcynia,nakielski,kujawsko-pomorskie,684,4515,660,https://pl.wikipedia.org/wiki/Kcynia,52.993611,17.486667,0929233,<10k
+Kędzierzyn-Koźle,kędzierzyńsko-kozielski,opolskie,12371,60021,485,https://pl.wikipedia.org/wiki/K%C4%99dzierzyn-Ko%C5%BAle,50.344722,18.208611,0965424,>50k
+Kępice,słupski,pomorskie,611,3558,582,https://pl.wikipedia.org/wiki/K%C4%99pice,54.241111,16.889722,0977344,<10k
+Kępno,kępiński,wielkopolskie,779,13889,1783,https://pl.wikipedia.org/wiki/K%C4%99pno,51.281111,17.986944,0936871,>10k
+Kętrzyn,kętrzyński,warmińsko-mazurskie,1035,26788,2588,https://pl.wikipedia.org/wiki/K%C4%99trzyn,54.076944,21.375278,0964710,>10k
+Kęty,oświęcimski,małopolskie,2305,18443,800,https://pl.wikipedia.org/wiki/K%C4%99ty,49.883333,19.221944,0924365,>10k
+Kielce,Kielce[a],świętokrzyskie,10965,193415,1764,https://pl.wikipedia.org/wiki/Kielce,50.874167,20.633333,0945930,>100k
+Kietrz,głubczycki,opolskie,1874,5874,313,https://pl.wikipedia.org/wiki/Kietrz,50.079167,18.008889,0965602,<10k
+Kisielice,iławski,warmińsko-mazurskie,337,2081,618,https://pl.wikipedia.org/wiki/Kisielice,53.606944,19.259444,0932749,<10k
+Kleczew,koniński,wielkopolskie,780,4097,525,https://pl.wikipedia.org/wiki/Kleczew,52.371111,18.176389,0949023,<10k
+Kleszczele,hajnowski,podlaskie,4671,1216,26,https://pl.wikipedia.org/wiki/Kleszczele,52.574167,23.325833,0031727,<10k
+Klimontów,sandomierski,świętokrzyskie,466,1884,404,https://pl.wikipedia.org/wiki/Klimont%C3%B3w,50.656389,21.452778,0795933,<10k
+Kluczbork,kluczborski,opolskie,1235,23254,1883,https://pl.wikipedia.org/wiki/Kluczbork,50.973056,18.214167,0965619,>10k
+Kłecko,gnieźnieński,wielkopolskie,962,2605,271,https://pl.wikipedia.org/wiki/K%C5%82ecko,52.631667,17.430556,0970840,<10k
+Kłobuck,kłobucki,śląskie,4746,12756,269,https://pl.wikipedia.org/wiki/K%C5%82obuck,50.905,18.937778,0931678,>10k
+Kłodawa,kolski,wielkopolskie,431,6355,1474,https://pl.wikipedia.org/wiki/K%C5%82odawa,52.255278,18.913889,0949046,<10k
+Kłodzko,kłodzki,dolnośląskie,2484,26421,1064,https://pl.wikipedia.org/wiki/K%C5%82odzko,50.437778,16.652778,0984077,>10k
+Knurów,gliwicki,śląskie,3395,37801,1113,https://pl.wikipedia.org/wiki/Knur%C3%B3w,50.221667,18.670556,0940849,>10k
+Knyszyn,moniecki,podlaskie,2368,2726,115,https://pl.wikipedia.org/wiki/Knyszyn,53.3125,22.919444,0923213,<10k
+Kobylin,krotoszyński,wielkopolskie,487,3222,662,https://pl.wikipedia.org/wiki/Kobylin,51.71615,17.226681,0954478,<10k
+Kobyłka,wołomiński,mazowieckie,1964,25149,1280,https://pl.wikipedia.org/wiki/Koby%C5%82ka,52.339167,21.195833,0920539,>10k
+Kock,lubartowski,lubelskie,1678,3238,193,https://pl.wikipedia.org/wiki/Kock,51.641342,22.447983,0956069,<10k
+Kolbuszowa,kolbuszowski,podkarpackie,798,8922,1118,https://pl.wikipedia.org/wiki/Kolbuszowa,50.244167,21.775,0974392[3],<10k
+Kolno,kolneński,podlaskie,2507,10143,405,https://pl.wikipedia.org/wiki/Kolno,53.410556,21.933889,0957420,>10k
+Kolonowskie,strzelecki,opolskie,5570,3296,59,https://pl.wikipedia.org/wiki/Kolonowskie,50.653056,18.388889,0965631,<10k
+Koluszki,łódzki wschodni,łódzkie,990,12776,1291,https://pl.wikipedia.org/wiki/Koluszki,51.737778,19.8125,0967831,>10k
+Kołaczyce,jasielski,podkarpackie,715,1427,200,https://pl.wikipedia.org/wiki/Ko%C5%82aczyce,49.808333,21.440278,0353968,<10k
+Koło,kolski,wielkopolskie,1385,21247,1534,https://pl.wikipedia.org/wiki/Ko%C5%82o_(miasto),52.201944,18.647222,0949052,>10k
+Kołobrzeg,kołobrzeski,zachodniopomorskie,2567,46198,1800,https://pl.wikipedia.org/wiki/Ko%C5%82obrzeg,54.177778,15.576944,0950026,>10k
+Koniecpol,częstochowski,śląskie,3692,5846,158,https://pl.wikipedia.org/wiki/Koniecpol,50.774167,19.688889,0931750,<10k
+Konin,Konin[a],wielkopolskie,8231,72539,881,https://pl.wikipedia.org/wiki/Konin,52.2275,18.261389,0948667,>50k
+Konstancin-Jeziorna,piaseczyński,mazowieckie,1774,16889,952,https://pl.wikipedia.org/wiki/Konstancin-Jeziorna,52.083333,21.120833,0920634,>10k
+Konstantynów Łódzki,pabianicki,łódzkie,2725,18335,673,https://pl.wikipedia.org/wiki/Konstantyn%C3%B3w_%C5%81%C3%B3dzki,51.747222,19.326389,0958826,>10k
+Końskie,konecki,świętokrzyskie,1770,18878,1067,https://pl.wikipedia.org/wiki/Ko%C5%84skie,51.188889,20.406111,0947136,>10k
+Koprzywnica,sandomierski,świętokrzyskie,1790,2431,136,https://pl.wikipedia.org/wiki/Koprzywnica,50.590556,21.583611,0796588,<10k
+Korfantów,nyski,opolskie,1023,1771,173,https://pl.wikipedia.org/wiki/Korfant%C3%B3w,50.489167,17.596944,0496946,<10k
+Koronowo,bydgoski,kujawsko-pomorskie,2815,11070,393,https://pl.wikipedia.org/wiki/Koronowo,53.314444,17.937222,0929285,>10k
+Korsze,kętrzyński,warmińsko-mazurskie,403,4145,1029,https://pl.wikipedia.org/wiki/Korsze,54.171389,21.141111,0964726,<10k
+Kosów Lacki,sokołowski,mazowieckie,1157,2071,179,https://pl.wikipedia.org/wiki/Kos%C3%B3w_Lacki,52.595556,22.146667,0676128,<10k
+Kostrzyn,poznański,wielkopolskie,798,9697,1215,https://pl.wikipedia.org/wiki/Kostrzyn,52.397919,17.228156,0970885,<10k
+Kostrzyn nad Odrą,gorzowski,lubuskie,4614,17704,384,https://pl.wikipedia.org/wiki/Kostrzyn_nad_Odr%C4%85,52.588333,14.666667,0935452,>10k
+Koszalin,Koszalin[a],zachodniopomorskie,9834,106235,1080,https://pl.wikipedia.org/wiki/Koszalin,54.190278,16.181667,0949448,>100k
+Koszyce,proszowicki,małopolskie,325,775,238,https://pl.wikipedia.org/wiki/Koszyce_(wojew%C3%B3dztwo_ma%C5%82opolskie),50.170278,20.573056,0244630,<10k
+Kościan,kościański,wielkopolskie,901,23716,2632,https://pl.wikipedia.org/wiki/Ko%C5%9Bcian,52.081389,16.640278,0954484,>10k
+Kościerzyna,kościerski,pomorskie,1586,23778,1499,https://pl.wikipedia.org/wiki/Ko%C5%9Bcierzyna,54.121944,17.981111,0934553,>10k
+Kowal,włocławski,kujawsko-pomorskie,468,3468,741,https://pl.wikipedia.org/wiki/Kowal_(miasto),52.5325,19.145,0985786,<10k
+Kowalewo Pomorskie,golubsko-dobrzyński,kujawsko-pomorskie,445,4102,922,https://pl.wikipedia.org/wiki/Kowalewo_Pomorskie,53.154722,18.897222,0983540,<10k
+Kowary,karkonoski,dolnośląskie,3739,10650,285,https://pl.wikipedia.org/wiki/Kowary,50.791667,15.833333,0936078,>10k
+Koziegłowy,myszkowski,śląskie,2671,2438,91,https://pl.wikipedia.org/wiki/Kozieg%C5%82owy_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie),50.599969,19.162917,0931827,<10k
+Kozienice,kozienicki,mazowieckie,1045,16877,1615,https://pl.wikipedia.org/wiki/Kozienice,51.585556,21.551111,0973524,>10k
+Koźmin Wielkopolski,krotoszyński,wielkopolskie,589,6437,1093,https://pl.wikipedia.org/wiki/Ko%C5%BAmin_Wielkopolski,51.827608,17.453842,0936925,<10k
+Koźminek,kaliski,wielkopolskie,604,1938,321,https://pl.wikipedia.org/wiki/Ko%C5%BAminek,51.798611,18.333333,0201141,<10k
+Kożuchów,nowosolski,lubuskie,594,9337,1572,https://pl.wikipedia.org/wiki/Ko%C5%BCuch%C3%B3w,51.745278,15.594444,0988454,<10k
+Kórnik,poznański,wielkopolskie,599,8023,1339,https://pl.wikipedia.org/wiki/K%C3%B3rnik,52.247122,17.090042,0970922,<10k
+Krajenka,złotowski,wielkopolskie,376,3603,958,https://pl.wikipedia.org/wiki/Krajenka,53.296922,16.990697,0966932,<10k
+Kraków,Kraków[a],małopolskie,32685,779966,2386,https://pl.wikipedia.org/wiki/Krak%C3%B3w,50.061389,19.938333,0950463,>500k
+Krapkowice,krapkowicki,opolskie,2101,15962,760,https://pl.wikipedia.org/wiki/Krapkowice,50.474722,17.967222,0965677,>10k
+Krasnobród,zamojski,lubelskie,4213,18383,436,https://pl.wikipedia.org/wiki/Krasnobr%C3%B3d,50.544722,23.215278,0891281,>10k
+Krasnystaw,krasnostawski,lubelskie,699,3074,440,https://pl.wikipedia.org/wiki/Krasnystaw,50.983889,23.169722,0930070,<10k
+Kraśnik,kraśnicki,lubelskie,2610,33917,1300,https://pl.wikipedia.org/wiki/Kra%C5%9Bnik,50.921389,22.220833,0956112,>10k
+Krobia,gostyński,wielkopolskie,705,4338,615,https://pl.wikipedia.org/wiki/Krobia,51.775,16.983333,0954538,<10k
+Krosno,Krosno[a],podkarpackie,4472,45948,1027,https://pl.wikipedia.org/wiki/Krosno,49.682222,21.765833,0952410,>10k
+Krosno Odrzańskie,krośnieński,lubuskie,815,11155,1369,https://pl.wikipedia.org/wiki/Krosno_Odrza%C5%84skie,52.052778,15.113056,0988460,>10k
+Krośniewice,kutnowski,łódzkie,418,4258,1019,https://pl.wikipedia.org/wiki/Kro%C5%9Bniewice,52.253611,19.17,0969095,<10k
+Krotoszyn,krotoszyński,wielkopolskie,2254,28701,1273,https://pl.wikipedia.org/wiki/Krotoszyn,51.695556,17.436944,0936931,>10k
+Kruszwica,inowrocławski,kujawsko-pomorskie,1023,9331,912,https://pl.wikipedia.org/wiki/Kruszwica,52.674167,18.326389,0929380,<10k
+Krynica Morska,nowodworski,pomorskie,11856,1290,11,https://pl.wikipedia.org/wiki/Krynica_Morska,54.3825,19.444444,0932755,<10k
+Krynica-Zdrój,nowosądecki,małopolskie,3968,10456,264,https://pl.wikipedia.org/wiki/Krynica-Zdr%C3%B3j,49.411667,20.955,0960390,>10k
+Krynki,sokólski,podlaskie,383,2313,604,https://pl.wikipedia.org/wiki/Krynki,53.265278,23.772192,0032655,<10k
+Krzanowice,raciborski,śląskie,308,2134,693,https://pl.wikipedia.org/wiki/Krzanowice,50.018056,18.125278,0215427,<10k
+Krzepice,kłobucki,śląskie,2766,4361,158,https://pl.wikipedia.org/wiki/Krzepice,50.967222,18.731944,0931862,<10k
+Krzeszowice,krakowski,małopolskie,1697,9969,587,https://pl.wikipedia.org/wiki/Krzeszowice,50.135,19.631944,0951570,<10k
+Krzywiń,kościański,wielkopolskie,227,1721,758,https://pl.wikipedia.org/wiki/Krzywi%C5%84,51.963239,16.820006,0954544,<10k
+Krzyż Wielkopolski,czarnkowsko-trzcianecki,wielkopolskie,581,6147,1058,https://pl.wikipedia.org/wiki/Krzy%C5%BC_Wielkopolski,52.879167,16.0125,0966961,<10k
+Książ Wielkopolski,śremski,wielkopolskie,196,2718,1387,https://pl.wikipedia.org/wiki/Ksi%C4%85%C5%BC_Wielkopolski,52.060992,17.239358,0970968,<10k
+Kudowa-Zdrój,kłodzki,dolnośląskie,3390,9772,288,https://pl.wikipedia.org/wiki/Kudowa-Zdr%C3%B3j,50.438333,16.239444,0984120,<10k
+Kunów,ostrowiecki,świętokrzyskie,726,2883,397,https://pl.wikipedia.org/wiki/Kun%C3%B3w,50.958611,21.283056,0947202,<10k
+Kutno,kutnowski,łódzkie,3359,43332,1290,https://pl.wikipedia.org/wiki/Kutno,52.231061,19.364342,0969103,>10k
+Kuźnia Raciborska,raciborski,śląskie,3149,5230,166,https://pl.wikipedia.org/wiki/Ku%C5%BAnia_Raciborska,50.2,18.311389,0940884,<10k
+Kwidzyn,kwidzyński,pomorskie,2154,38329,1779,https://pl.wikipedia.org/wiki/Kwidzyn,53.735833,18.930833,0932790,>10k
+Lądek-Zdrój,kłodzki,dolnośląskie,2032,5466,269,https://pl.wikipedia.org/wiki/L%C4%85dek-Zdr%C3%B3j,50.343056,16.879444,0984203,<10k
+Legionowo,legionowski,mazowieckie,1354,53529,3953,https://pl.wikipedia.org/wiki/Legionowo,52.406667,20.934722,0920806,>50k
+Legnica,Legnica[a],dolnośląskie,5629,98436,1749,https://pl.wikipedia.org/wiki/Legnica,51.205278,16.156389,0954047,>50k
+Lesko,leski,podkarpackie,1533,5406,353,https://pl.wikipedia.org/wiki/Lesko,49.474444,22.328889,0953409,<10k
+Leszno,Leszno[a],wielkopolskie,3186,62854,1973,https://pl.wikipedia.org/wiki/Leszno,51.845833,16.580556,0954225[7],>50k
+Leśna,lubański,dolnośląskie,856,4391,513,https://pl.wikipedia.org/wiki/Le%C5%9Bna,51.023611,15.266667,0936121,<10k
+Leśnica,strzelecki,opolskie,1450,2564,177,https://pl.wikipedia.org/wiki/Le%C5%9Bnica_(wojew%C3%B3dztwo_opolskie),50.429167,18.181111,0965714,<10k
+Lewin Brzeski,brzeski,opolskie,1164,5696,489,https://pl.wikipedia.org/wiki/Lewin_Brzeski,50.749722,17.618889,0965720,<10k
+Leżajsk,leżajski,podkarpackie,2058,13585,660,https://pl.wikipedia.org/wiki/Le%C5%BCajsk,50.261111,22.419444,0974400,>10k
+Lębork,lęborski,pomorskie,1786,35101,1965,https://pl.wikipedia.org/wiki/L%C4%99bork,54.539167,17.747222,0977373,>10k
+Lędziny,bieruńsko-lędziński,śląskie,3165,16731,529,https://pl.wikipedia.org/wiki/L%C4%99dziny,50.1425,19.130833,0940890,>10k
+Libiąż,chrzanowski,małopolskie,3585,16838,470,https://pl.wikipedia.org/wiki/Libi%C4%85%C5%BC,50.103611,19.315556,0940938,>10k
+Lidzbark,działdowski,warmińsko-mazurskie,568,7635,1344,https://pl.wikipedia.org/wiki/Lidzbark,53.260278,19.821111,0930644,<10k
+Lidzbark Warmiński,lidzbarski,warmińsko-mazurskie,1435,15489,1079,https://pl.wikipedia.org/wiki/Lidzbark_Warmi%C5%84ski,54.123692,20.581736,0964732,>10k
+Limanowa,limanowski,małopolskie,1870,15067,806,https://pl.wikipedia.org/wiki/Limanowa,49.701667,20.425556,0960510,>10k
+Lipiany,pyrzycki,zachodniopomorskie,554,3887,702,https://pl.wikipedia.org/wiki/Lipiany,53.003056,14.969444,0979120,<10k
+Lipno,lipnowski,kujawsko-pomorskie,1099,14283,1300,https://pl.wikipedia.org/wiki/Lipno,52.848611,19.180556,0985830,>10k
+Lipsk,augustowski,podlaskie,498,2250,452,https://pl.wikipedia.org/wiki/Lipsk_(powiat_augustowski),53.733611,23.399722,0977717,<10k
+Lipsko,lipski,mazowieckie,1570,5377,342,https://pl.wikipedia.org/wiki/Lipsko,51.158333,21.649167,0973613,<10k
+Lubaczów,lubaczowski,podkarpackie,2573,11830,460,https://pl.wikipedia.org/wiki/Lubacz%C3%B3w,50.159167,23.121944,0972447,>10k
+Lubań,lubański,dolnośląskie,1612,20723,1286,https://pl.wikipedia.org/wiki/Luba%C5%84_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie),51.118056,15.289167,0936150,>10k
+Lubartów,lubartowski,lubelskie,1391,21636,1555,https://pl.wikipedia.org/wiki/Lubart%C3%B3w,51.462222,22.608611,0956313,>10k
+Lubawa,iławski,warmińsko-mazurskie,1684,10374,616,https://pl.wikipedia.org/wiki/Lubawa,53.505,19.751667,0964749,>10k
+Lubawka,kamiennogórski,dolnośląskie,2244,5940,265,https://pl.wikipedia.org/wiki/Lubawka,50.703333,16.001944,0936180,<10k
+Lubień Kujawski,włocławski,kujawsko-pomorskie,231,1377,596,https://pl.wikipedia.org/wiki/Lubie%C5%84_Kujawski,52.404722,19.164722,0985898,<10k
+Lubin,lubiński,dolnośląskie,4077,71710,1759,https://pl.wikipedia.org/wiki/Lubin,51.3975,16.209444,0954142,>50k
+Lublin,Lublin[a],lubelskie,14747,338586,2296,https://pl.wikipedia.org/wiki/Lublin,51.25,22.566667,0954700,>250k
+Lubliniec,lubliniecki,śląskie,8936,23551,264,https://pl.wikipedia.org/wiki/Lubliniec,50.668056,18.679167,0931945,>10k
+Lubniewice,sulęciński,lubuskie,1211,2080,172,https://pl.wikipedia.org/wiki/Lubniewice,52.516389,15.249722,0182969,<10k
+Lubomierz,lwówecki,dolnośląskie,805,1987,247,https://pl.wikipedia.org/wiki/Lubomierz,51.011667,15.509722,0936210,<10k
+Luboń,poznański,wielkopolskie,1351,32015,2370,https://pl.wikipedia.org/wiki/Lubo%C5%84,52.345806,16.878361,0970974,>10k
+Lubowidz,żuromiński,mazowieckie,527,1645,312,https://pl.wikipedia.org/wiki/Lubowidz,53.122222,19.843056,0118606,<10k
+Lubraniec,włocławski,kujawsko-pomorskie,197,2927,1486,https://pl.wikipedia.org/wiki/Lubraniec,52.541944,18.835556,0985929,<10k
+Lubsko,żarski,lubuskie,1251,13733,1098,https://pl.wikipedia.org/wiki/Lubsko,51.785556,14.9675,0988490,>10k
+Lubycza Królewska,tomaszowski,lubelskie,392,2424,618,https://pl.wikipedia.org/wiki/Lubycza_Kr%C3%B3lewska,50.340803,23.519625,0892889,<10k
+Lututów,wieruszowski,łódzkie,1895,2241,118,https://pl.wikipedia.org/wiki/Lutut%C3%B3w,51.371667,18.435278,0706651,<10k
+Lwówek,nowotomyski,wielkopolskie,316,2933,928,https://pl.wikipedia.org/wiki/Lw%C3%B3wek,52.447911,16.181014,0971028,<10k
+Lwówek Śląski,lwówecki,dolnośląskie,1665,8753,526,https://pl.wikipedia.org/wiki/Lw%C3%B3wek_%C5%9Al%C4%85ski,51.110278,15.584722,0936227,<10k
+Łabiszyn,żniński,kujawsko-pomorskie,289,4501,1557,https://pl.wikipedia.org/wiki/%C5%81abiszyn,52.953056,17.919444,0929405,<10k
+Łagów,kielecki,świętokrzyskie,822,1543,188,https://pl.wikipedia.org/wiki/%C5%81ag%C3%B3w,50.776667,21.085,0247670,<10k
+Łańcut,łańcucki,podkarpackie,1942,17675,910,https://pl.wikipedia.org/wiki/%C5%81a%C5%84cut,50.068056,22.229722,0974529,>10k
+Łapy,białostocki,podlaskie,1214,15412,1270,https://pl.wikipedia.org/wiki/%C5%81apy,52.991111,22.885278,0923271,>10k
+Łasin,grudziądzki,kujawsko-pomorskie,479,3161,660,https://pl.wikipedia.org/wiki/%C5%81asin,53.519444,19.086667,0983557,<10k
+Łask,łaski,łódzkie,1567,16925,1080,https://pl.wikipedia.org/wiki/%C5%81ask,51.589722,19.1325,0976296,>10k
+Łaskarzew,garwoliński,mazowieckie,1535,4809,313,https://pl.wikipedia.org/wiki/%C5%81askarzew,51.79,21.5925,0975434,<10k
+Łaszczów,tomaszowski,lubelskie,501,2111,421,https://pl.wikipedia.org/wiki/%C5%81aszcz%C3%B3w,50.531667,23.715278,0893742,<10k
+Łaziska Górne,mikołowski,śląskie,2011,22130,1100,https://pl.wikipedia.org/wiki/%C5%81aziska_G%C3%B3rne,50.154722,18.843611,0941139,>10k
+Łazy,zawierciański,śląskie,860,6744,784,https://pl.wikipedia.org/wiki/%C5%81azy,50.426944,19.394722,0941197,<10k
+Łeba,lęborski,pomorskie,1656,3541,214,https://pl.wikipedia.org/wiki/%C5%81eba,54.761111,17.557222,0977380,<10k
+Łęczna,łęczyński,lubelskie,1900,18675,983,https://pl.wikipedia.org/wiki/%C5%81%C4%99czna,51.301667,22.879167,0956388,>10k
+Łęczyca,łęczycki,łódzkie,895,13786,1540,https://pl.wikipedia.org/wiki/%C5%81%C4%99czyca,52.059167,19.198333,0969250,>10k
+Łęknica,żarski,lubuskie,1643,2396,146,https://pl.wikipedia.org/wiki/%C5%81%C4%99knica,51.538333,14.739167,0988508,<10k
+Łobez,łobeski,zachodniopomorskie,1284,10048,783,https://pl.wikipedia.org/wiki/%C5%81obez,53.639167,15.621389,0979136,>10k
+Łobżenica,pilski,wielkopolskie,325,2939,904,https://pl.wikipedia.org/wiki/%C5%81ob%C5%BCenica,53.262492,17.255681,0966984,<10k
+Łochów,węgrowski,mazowieckie,1339,6822,509,https://pl.wikipedia.org/wiki/%C5%81och%C3%B3w,52.530556,21.686111,0975492,<10k
+Łomianki,warszawski zachodni,mazowieckie,840,17080,2033,https://pl.wikipedia.org/wiki/%C5%81omianki,52.335556,20.894444,0920864,>10k
+Łomża,Łomża[a],podlaskie,3267,62573,1915,https://pl.wikipedia.org/wiki/%C5%81om%C5%BCa,53.176389,22.073056,0957241,>50k
+Łosice,łosicki,mazowieckie,2374,7023,296,https://pl.wikipedia.org/wiki/%C5%81osice,52.2125,22.718889,0922120,<10k
+Łowicz,łowicki,łódzkie,2342,27896,1191,https://pl.wikipedia.org/wiki/%C5%81owicz,52.106111,19.945833,0977031,>10k
+Łódź,Łódź[a],łódzkie,29325,672185,2292,https://pl.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA,51.776667,19.454722,0957650,>500k
+Łuków,łukowski,lubelskie,3575,29441,824,https://pl.wikipedia.org/wiki/%C5%81uk%C3%B3w,51.927222,22.383333,0975530,>10k
+Maków Mazowiecki,makowski,mazowieckie,1028,9575,931,https://pl.wikipedia.org/wiki/Mak%C3%B3w_Mazowiecki,52.865,21.100556,0966300,<10k
+Maków Podhalański,suski,małopolskie,2012,5769,287,https://pl.wikipedia.org/wiki/Mak%C3%B3w_Podhala%C5%84ski,49.730556,19.680833,0924537,<10k
+Malbork,malborski,pomorskie,1716,38101,2220,https://pl.wikipedia.org/wiki/Malbork,54.035,19.028056,0932815,>10k
+Małogoszcz,jędrzejowski,świętokrzyskie,968,3670,379,https://pl.wikipedia.org/wiki/Ma%C5%82ogoszcz,50.813333,20.268333,0249343,<10k
+Małomice,żagański,lubuskie,675,3496,518,https://pl.wikipedia.org/wiki/Ma%C5%82omice,51.557222,15.449444,0988514,<10k
+Margonin,chodzieski,wielkopolskie,515,2984,579,https://pl.wikipedia.org/wiki/Margonin,52.973303,17.094797,0966990,<10k
+Marki,wołomiński,mazowieckie,2615,36816,1408,https://pl.wikipedia.org/wiki/Marki,52.321111,21.103333,0920901,>10k
+Maszewo,goleniowski,zachodniopomorskie,554,3346,604,https://pl.wikipedia.org/wiki/Maszewo,53.496331,15.061422,0979188,<10k
+Miasteczko Śląskie,tarnogórski,śląskie,6783,7418,109,https://pl.wikipedia.org/wiki/Miasteczko_%C5%9Al%C4%85skie,50.501667,18.939444,0943902,<10k
+Miastko,bytowski,pomorskie,568,10211,1798,https://pl.wikipedia.org/wiki/Miastko,53.999167,16.976389,0977404,>10k
+Michałowo,białostocki,podlaskie,215,2983,1387,https://pl.wikipedia.org/wiki/Micha%C5%82owo,53.036944,23.604444,0034507,<10k
+Miechów,miechowski,małopolskie,1549,11500,742,https://pl.wikipedia.org/wiki/Miech%C3%B3w,50.357778,20.0325,0947225,>10k
+Miejska Górka,rawicki,wielkopolskie,314,3203,1020,https://pl.wikipedia.org/wiki/Miejska_G%C3%B3rka,51.655,16.954444,0954550,<10k
+Mielec,mielecki,podkarpackie,4689,60075,1281,https://pl.wikipedia.org/wiki/Mielec,50.291667,21.433333,0974618,>50k
+Mielno,koszaliński,zachodniopomorskie,3345,2898,87,https://pl.wikipedia.org/wiki/Mielno,54.26,16.060833,0308353,<10k
+Mieroszów,wałbrzyski,dolnośląskie,1031,3964,384,https://pl.wikipedia.org/wiki/Mierosz%C3%B3w,50.666944,16.189722,0984210,<10k
+Mieszkowice,gryfiński,zachodniopomorskie,525,3577,681,https://pl.wikipedia.org/wiki/Mieszkowice,52.785278,14.493333,0979202,<10k
+Międzybórz,oleśnicki,dolnośląskie,641,2341,365,https://pl.wikipedia.org/wiki/Mi%C4%99dzyb%C3%B3rz,51.399167,17.665556,0937037,<10k
+Międzychód,międzychodzki,wielkopolskie,698,10476,1501,https://pl.wikipedia.org/wiki/Mi%C4%99dzych%C3%B3d,52.601111,15.89,0935506,>10k
+Międzylesie,kłodzki,dolnośląskie,1437,2514,175,https://pl.wikipedia.org/wiki/Mi%C4%99dzylesie,50.149444,16.666389,0984226,<10k
+Międzyrzec Podlaski,bialski,lubelskie,2003,16667,832,https://pl.wikipedia.org/wiki/Mi%C4%99dzyrzec_Podlaski,51.985411,22.784836,0922159,>10k
+Międzyrzecz,międzyrzecki,lubuskie,1026,17667,1722,https://pl.wikipedia.org/wiki/Mi%C4%99dzyrzecz,52.448333,15.588333,0935529,>10k
+Międzyzdroje,kamieński,zachodniopomorskie,516,5307,1028,https://pl.wikipedia.org/wiki/Mi%C4%99dzyzdroje,53.928889,14.451389,0979248,<10k
+Mikołajki,mrągowski,warmińsko-mazurskie,932,3741,401,https://pl.wikipedia.org/wiki/Miko%C5%82ajki,53.803611,21.571667,0977723,<10k
+Mikołów,mikołowski,śląskie,7921,41003,518,https://pl.wikipedia.org/wiki/Miko%C5%82%C3%B3w,50.163611,18.903889,0941286,>10k
+Mikstat,ostrzeszowski,wielkopolskie,252,1812,719,https://pl.wikipedia.org/wiki/Mikstat,51.531944,17.973056,0937066,<10k
+Milanówek,grodziski,mazowieckie,1344,16478,1226,https://pl.wikipedia.org/wiki/Milan%C3%B3wek,52.1243,20.6654,0921020,>10k
+Milicz,milicki,dolnośląskie,1350,11199,830,https://pl.wikipedia.org/wiki/Milicz,51.5275,17.271389,0987130,>10k
+Miłakowo,ostródzki,warmińsko-mazurskie,876,2540,290,https://pl.wikipedia.org/wiki/Mi%C5%82akowo,54.010278,20.072222,0481761,<10k
+Miłomłyn,ostródzki,warmińsko-mazurskie,1238,2421,196,https://pl.wikipedia.org/wiki/Mi%C5%82om%C5%82yn,53.764167,19.838056,0482192,<10k
+Miłosław,wrzesiński,wielkopolskie,446,3534,792,https://pl.wikipedia.org/wiki/Mi%C5%82os%C5%82aw,52.202778,17.489444,0971034,<10k
+Mińsk Mazowiecki,miński,mazowieckie,1318,40916,3104,https://pl.wikipedia.org/wiki/Mi%C5%84sk_Mazowiecki,52.180556,21.558333,0975687,>10k
+Mirosławiec,wałecki,zachodniopomorskie,241,3054,1267,https://pl.wikipedia.org/wiki/Miros%C5%82awiec,53.343889,16.087222,0967038,<10k
+Mirsk,lwówecki,dolnośląskie,1466,3786,258,https://pl.wikipedia.org/wiki/Mirsk,50.969167,15.382778,0936233,<10k
+Mława,mławski,mazowieckie,3480,31129,895,https://pl.wikipedia.org/wiki/M%C5%82awa,53.127222,20.3575,0930696,>10k
+Młynary,elbląski,warmińsko-mazurskie,276,1763,639,https://pl.wikipedia.org/wiki/M%C5%82ynary,54.186356,19.720367,0932873,<10k
+Modliborzyce,janowski,lubelskie,789,1459,185,https://pl.wikipedia.org/wiki/Modliborzyce,50.7525,22.329444,0799760,<10k
+Mogielnica,grójecki,mazowieckie,1298,2193,169,https://pl.wikipedia.org/wiki/Mogielnica,51.693333,20.724167,0973665,<10k
+Mogilno,mogileński,kujawsko-pomorskie,832,11652,1400,https://pl.wikipedia.org/wiki/Mogilno,52.657778,17.950833,0929428,>10k
+Mońki,moniecki,podlaskie,766,9933,1297,https://pl.wikipedia.org/wiki/Mo%C5%84ki,53.406944,22.797158,0923348,<10k
+Morawica,kielecki,świętokrzyskie,438,1708,390,https://pl.wikipedia.org/wiki/Morawica,50.741111,20.626667,0254226,<10k
+Morąg,ostródzki,warmińsko-mazurskie,611,13459,2203,https://pl.wikipedia.org/wiki/Mor%C4%85g,53.916269,19.927847,0964850,>10k
+Mordy,siedlecki,mazowieckie,454,1710,377,https://pl.wikipedia.org/wiki/Mordy,52.211111,22.515278,0975747,<10k
+Moryń,gryfiński,zachodniopomorskie,554,1612,291,https://pl.wikipedia.org/wiki/Mory%C5%84,52.859444,14.393611,0979283,<10k
+Mosina,poznański,wielkopolskie,1350,14255,1056,https://pl.wikipedia.org/wiki/Mosina,52.246667,16.845,0971057,>10k
+Mrągowo,mrągowski,warmińsko-mazurskie,1481,21302,1438,https://pl.wikipedia.org/wiki/Mr%C4%85gowo,53.869167,21.299722,0964896,>10k
+Mrocza,nakielski,kujawsko-pomorskie,501,4298,858,https://pl.wikipedia.org/wiki/Mrocza,53.244444,17.606111,0929440,<10k
+Mrozy,miński,mazowieckie,773,3586,464,https://pl.wikipedia.org/wiki/Mrozy,52.166111,21.800833,0682940,<10k
+Mszana Dolna,limanowski,małopolskie,2710,7899,291,https://pl.wikipedia.org/wiki/Mszana_Dolna,49.675375,20.076672,0960697,<10k
+Mszczonów,żyrardowski,mazowieckie,856,6290,735,https://pl.wikipedia.org/wiki/Mszczon%C3%B3w,51.974444,20.5125,0977054,<10k
+Murowana Goślina,poznański,wielkopolskie,862,10410,1208,https://pl.wikipedia.org/wiki/Murowana_Go%C5%9Blina,52.574172,17.008928,0971152,>10k
+Muszyna,nowosądecki,małopolskie,2443,4737,194,https://pl.wikipedia.org/wiki/Muszyna,49.358333,20.9,0961283,<10k
+Mysłowice,Mysłowice[a],śląskie,6562,74559,1136,https://pl.wikipedia.org/wiki/Mys%C5%82owice,50.241389,19.136667,0941487,>50k
+Myszków,myszkowski,śląskie,7359,31261,425,https://pl.wikipedia.org/wiki/Myszk%C3%B3w,50.575556,19.325833,0932057,>10k
+Myszyniec,ostrołęcki,mazowieckie,1122,3397,303,https://pl.wikipedia.org/wiki/Myszyniec,53.384444,21.340556,0514928[3],<10k
+Myślenice,myślenicki,małopolskie,3022,18325,606,https://pl.wikipedia.org/wiki/My%C5%9Blenice,49.833333,19.940556,0951617,>10k
+Myślibórz,myśliborski,zachodniopomorskie,1504,11049,735,https://pl.wikipedia.org/wiki/My%C5%9Blib%C3%B3rz,52.924722,14.866389,0935558,>10k
+Nakło nad Notecią,nakielski,kujawsko-pomorskie,1082,18026,1666,https://pl.wikipedia.org/wiki/Nak%C5%82o_nad_Noteci%C4%85,53.138889,17.599444,0929463,>10k
+Nałęczów,puławski,lubelskie,1382,3727,270,https://pl.wikipedia.org/wiki/Na%C5%82%C4%99cz%C3%B3w,51.287222,22.214722,0956454,<10k
+Namysłów,namysłowski,opolskie,2261,16622,735,https://pl.wikipedia.org/wiki/Namys%C5%82%C3%B3w,51.072778,17.706944,0965743,>10k
+Narol,lubaczowski,podkarpackie,1242,2040,164,https://pl.wikipedia.org/wiki/Narol,50.350278,23.327222,0606984,<10k
+Nasielsk,nowodworski,mazowieckie,1257,7650,609,https://pl.wikipedia.org/wiki/Nasielsk,52.589722,20.804167,0930740,<10k
+Nekla,wrzesiński,wielkopolskie,1979,3851,195,https://pl.wikipedia.org/wiki/Nekla,52.364889,17.413306,0590310,<10k
+Nidzica,nidzicki,warmińsko-mazurskie,686,13547,1975,https://pl.wikipedia.org/wiki/Nidzica,53.358333,20.425,0964904,>10k
+Niemcza,dzierżoniowski,dolnośląskie,1981,2932,148,https://pl.wikipedia.org/wiki/Niemcza,50.715833,16.835,0984232,<10k
+Niemodlin,opolski,opolskie,1311,6223,475,https://pl.wikipedia.org/wiki/Niemodlin,50.641944,17.619444,0965750,<10k
+Niepołomice,wielicki,małopolskie,2740,14022,512,https://pl.wikipedia.org/wiki/Niepo%C5%82omice,50.033889,20.217222,0951675,>10k
+Nieszawa,aleksandrowski,kujawsko-pomorskie,979,1834,187,https://pl.wikipedia.org/wiki/Nieszawa,52.836667,18.901389,0985987,<10k
+Nisko,niżański,podkarpackie,6096,15193,249,https://pl.wikipedia.org/wiki/Nisko,50.519444,22.141667,0980530,>10k
+Nowa Dęba,tarnobrzeski,podkarpackie,1670,11006,659,https://pl.wikipedia.org/wiki/Nowa_D%C4%99ba,50.414722,21.753333,0980636,>10k
+Nowa Ruda,kłodzki,dolnośląskie,3705,21643,584,https://pl.wikipedia.org/wiki/Nowa_Ruda,50.579214,16.501458,0984278,>10k
+Nowa Sarzyna,leżajski,podkarpackie,915,5740,627,https://pl.wikipedia.org/wiki/Nowa_Sarzyna,50.320278,22.344444,0974788,<10k
+Nowa Słupia,kielecki,świętokrzyskie,1397,1356,97,https://pl.wikipedia.org/wiki/Nowa_S%C5%82upia,50.8625,21.086944,0255510,<10k
+Nowa Sól,nowosolski,lubuskie,2180,38191,1752,https://pl.wikipedia.org/wiki/Nowa_S%C3%B3l,51.805833,15.716111,0988520,>10k
+Nowe,świecki,kujawsko-pomorskie,357,5724,1603,https://pl.wikipedia.org/wiki/Nowe,53.646111,18.729167,0929492,<10k
+Nowe Brzesko,proszowicki,małopolskie,726,1654,228,https://pl.wikipedia.org/wiki/Nowe_Brzesko,50.137222,20.384722,0329705,<10k
+Nowe Miasteczko,nowosolski,lubuskie,329,2724,828,https://pl.wikipedia.org/wiki/Nowe_Miasteczko,51.690833,15.734722,0988566,<10k
+Nowe Miasto Lubawskie,nowomiejski,warmińsko-mazurskie,1137,10709,942,https://pl.wikipedia.org/wiki/Nowe_Miasto_Lubawskie,53.425556,19.587778,0983563,>10k
+Nowe Miasto nad Pilicą,grójecki,mazowieckie,1125,3672,326,https://pl.wikipedia.org/wiki/Nowe_Miasto_nad_Pilic%C4%85,51.616667,20.578889,0973725,<10k
+Nowe Skalmierzyce,ostrowski,wielkopolskie,158,4744,3003,https://pl.wikipedia.org/wiki/Nowe_Skalmierzyce,51.710278,17.9925,0937089,<10k
+Nowe Warpno,policki,zachodniopomorskie,2451,1178,48,https://pl.wikipedia.org/wiki/Nowe_Warpno,53.7225,14.288889,0979308,<10k
+Nowogard,goleniowski,zachodniopomorskie,1257,16448,1309,https://pl.wikipedia.org/wiki/Nowogard,53.671944,15.119167,0979389,>10k
+Nowogrodziec,bolesławiecki,dolnośląskie,1610,4263,265,https://pl.wikipedia.org/wiki/Nowogrodziec,51.201111,15.385556,0936262,<10k
+Nowogród,łomżyński,podlaskie,2055,2150,105,https://pl.wikipedia.org/wiki/Nowogr%C3%B3d,53.227778,21.880556,0957459,<10k
+Nowogród Bobrzański,zielonogórski,lubuskie,1463,5060,346,https://pl.wikipedia.org/wiki/Nowogr%C3%B3d_Bobrza%C5%84ski,51.798333,15.253889,0988572,<10k
+Nowy Dwór Gdański,nowodworski,pomorskie,507,9862,1945,https://pl.wikipedia.org/wiki/Nowy_Dw%C3%B3r_Gda%C5%84ski,54.2125,19.116667,0932880,<10k
+Nowy Dwór Mazowiecki,nowodworski,mazowieckie,2821,28691,1017,https://pl.wikipedia.org/wiki/Nowy_Dw%C3%B3r_Mazowiecki,52.430278,20.715833,0921148,>10k
+Nowy Korczyn,buski,świętokrzyskie,745,904,121,https://pl.wikipedia.org/wiki/Nowy_Korczyn,50.299167,20.808889,0256142,<10k
+Nowy Sącz,Nowy Sącz[a],małopolskie,5758,83558,1451,https://pl.wikipedia.org/wiki/Nowy_S%C4%85cz,49.625,20.695556,0959435,>50k
+Nowy Staw,malborski,pomorskie,467,4226,905,https://pl.wikipedia.org/wiki/Nowy_Staw,54.135556,19.013333,0932904,<10k
+Nowy Targ,nowotarski,małopolskie,5107,33257,651,https://pl.wikipedia.org/wiki/Nowy_Targ,49.477778,20.03,0961538,>10k
+Nowy Tomyśl,nowotomyski,wielkopolskie,520,14319,2754,https://pl.wikipedia.org/wiki/Nowy_Tomy%C5%9Bl,52.317222,16.121667,0971175,>10k
+Nowy Wiśnicz,bocheński,małopolskie,497,2763,556,https://pl.wikipedia.org/wiki/Nowy_Wi%C5%9Bnicz,49.914722,20.460833,0824936,<10k
+Nysa,nyski,opolskie,2751,43356,1576,https://pl.wikipedia.org/wiki/Nysa,50.471667,17.334167,0965789,>10k
+Oborniki,obornicki,wielkopolskie,1408,17848,1268,https://pl.wikipedia.org/wiki/Oborniki,52.644722,16.814167,0971181,>10k
+Oborniki Śląskie,trzebnicki,dolnośląskie,1446,9075,628,https://pl.wikipedia.org/wiki/Oborniki_%C5%9Al%C4%85skie,51.298611,16.901667,0987182,<10k
+Obrzycko,szamotulski,wielkopolskie,374,2385,638,https://pl.wikipedia.org/wiki/Obrzycko,52.706389,16.529167,0971212,<10k
+Odolanów,ostrowski,wielkopolskie,476,5114,1074,https://pl.wikipedia.org/wiki/Odolan%C3%B3w,51.574444,17.673889,0937110,<10k
+Ogrodzieniec,zawierciański,śląskie,2856,4243,149,https://pl.wikipedia.org/wiki/Ogrodzieniec,50.451111,19.518889,0941748,<10k
+Okonek,złotowski,wielkopolskie,601,3842,639,https://pl.wikipedia.org/wiki/Okonek,53.535556,16.851944,0967044,<10k
+Olecko,olecki,warmińsko-mazurskie,1154,16364,1418,https://pl.wikipedia.org/wiki/Olecko,54.036172,22.498242,0977798,>10k
+Olesno,oleski,opolskie,1508,9353,620,https://pl.wikipedia.org/wiki/Olesno,50.875,18.416667,0932293,<10k
+Oleszyce,lubaczowski,podkarpackie,508,2948,580,https://pl.wikipedia.org/wiki/Oleszyce,50.166944,23.030833,0972507,<10k
+Oleśnica,oleśnicki,dolnośląskie,2096,36979,1764,https://pl.wikipedia.org/wiki/Ole%C5%9Bnica,51.212778,17.383056,0987213,>10k
+Oleśnica,staszowski,świętokrzyskie,1004,1809,180,https://pl.wikipedia.org/wiki/Ole%C5%9Bnica_(wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie),50.45,21.05,0257118,<10k
+Olkusz,olkuski,małopolskie,2565,34757,1355,https://pl.wikipedia.org/wiki/Olkusz,50.279167,19.559722,0941777,>10k
+Olsztyn,Olsztyn[a],warmińsko-mazurskie,8833,171249,1939,https://pl.wikipedia.org/wiki/Olsztyn,53.773056,20.476111,0964465,>100k
+Olsztynek,olsztyński,warmińsko-mazurskie,769,7491,974,https://pl.wikipedia.org/wiki/Olsztynek,53.582431,20.282731,0964910,<10k
+Olszyna,lubański,dolnośląskie,2026,4325,213,https://pl.wikipedia.org/wiki/Olszyna,51.066667,15.388889,0191684,<10k
+Oława,oławski,dolnośląskie,2736,33087,1209,https://pl.wikipedia.org/wiki/O%C5%82awa,50.943889,17.2925,0987259,>10k
+Opalenica,nowotomyski,wielkopolskie,642,9545,1487,https://pl.wikipedia.org/wiki/Opalenica,52.309167,16.409444,0971241,<10k
+Opatowiec,kazimierski,świętokrzyskie,547,336,61,https://pl.wikipedia.org/wiki/Opatowiec,50.241944,20.723611,0257963,<10k
+Opatów,opatowski,świętokrzyskie,936,6374,681,https://pl.wikipedia.org/wiki/Opat%C3%B3w,50.805,21.424722,0980671,<10k
+Opatówek,kaliski,wielkopolskie,868,3611,416,https://pl.wikipedia.org/wiki/Opat%C3%B3wek,51.74,18.214444,0205386,<10k
+Opoczno,opoczyński,łódzkie,2699,20746,769,https://pl.wikipedia.org/wiki/Opoczno,51.377222,20.286944,0967943,>10k
+Opole,Opole[a],opolskie,14888,127839,859,https://pl.wikipedia.org/wiki/Opole,50.664722,17.926944,0965016,>100k
+Opole Lubelskie,opolski,lubelskie,1512,8320,550,https://pl.wikipedia.org/wiki/Opole_Lubelskie,51.147222,21.968889,0956550,<10k
+Orneta,lidzbarski,warmińsko-mazurskie,963,8648,898,https://pl.wikipedia.org/wiki/Orneta,54.115556,20.13,0932910,<10k
+Orzesze,mikołowski,śląskie,8371,21290,254,https://pl.wikipedia.org/wiki/Orzesze,50.143889,18.775556,0941984,>10k
+Orzysz,piski,warmińsko-mazurskie,817,5526,676,https://pl.wikipedia.org/wiki/Orzysz,53.810264,21.947297,0977806,<10k
+Osieczna,leszczyński,wielkopolskie,476,2392,503,https://pl.wikipedia.org/wiki/Osieczna,51.905833,16.676389,0954567,<10k
+Osiek,staszowski,świętokrzyskie,1743,1970,113,https://pl.wikipedia.org/wiki/Osiek_(wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie),50.52,21.442778,0802202,<10k
+Ostrołęka,Ostrołęka[a],mazowieckie,3346,51656,1544,https://pl.wikipedia.org/wiki/Ostro%C5%82%C4%99ka,53.082778,21.5725,0966079,>50k
+Ostroróg,szamotulski,wielkopolskie,125,1916,1533,https://pl.wikipedia.org/wiki/Ostror%C3%B3g,52.626944,16.455278,0971264,<10k
+Ostrowiec Świętokrzyski,ostrowiecki,świętokrzyskie,4643,67404,1452,https://pl.wikipedia.org/wiki/Ostrowiec_%C5%9Awi%C4%99tokrzyski,50.9325,21.386111,0947308,>50k
+Ostróda,ostródzki,warmińsko-mazurskie,1415,32714,2312,https://pl.wikipedia.org/wiki/Ostr%C3%B3da,53.693889,19.966111,0964927,>10k
+Ostrów Lubelski,lubartowski,lubelskie,2977,2089,70,https://pl.wikipedia.org/wiki/Ostr%C3%B3w_Lubelski,51.491111,22.855,0956690,<10k
+Ostrów Mazowiecka,ostrowski,mazowieckie,2227,22216,998,https://pl.wikipedia.org/wiki/Ostr%C3%B3w_Mazowiecka,52.800833,21.896111,0966330,>10k
+Ostrów Wielkopolski,ostrowski,wielkopolskie,4190,71560,1708,https://pl.wikipedia.org/wiki/Ostr%C3%B3w_Wielkopolski,51.654722,17.807222,0937132,>50k
+Ostrzeszów,ostrzeszowski,wielkopolskie,1213,13964,1151,https://pl.wikipedia.org/wiki/Ostrzesz%C3%B3w,51.425,17.929722,0937250,>10k
+Ośno Lubuskie,słubicki,lubuskie,801,3896,486,https://pl.wikipedia.org/wiki/O%C5%9Bno_Lubuskie,52.452222,14.8775,0935587,<10k
+Oświęcim,oświęcimski,małopolskie,3000,37569,1252,https://pl.wikipedia.org/wiki/O%C5%9Bwi%C4%99cim,50.039167,19.220833,0924997,>10k
+Otmuchów,nyski,opolskie,4954,6474,131,https://pl.wikipedia.org/wiki/Otmuch%C3%B3w,50.466667,17.175,0965832,<10k
+Otwock,otwocki,mazowieckie,4731,44317,937,https://pl.wikipedia.org/wiki/Otwock,52.106111,21.265833,0921237,>10k
+Otyń,nowosolski,lubuskie,786,1641,209,https://pl.wikipedia.org/wiki/Oty%C5%84,51.847222,15.709722,0912824,<10k
+Ozimek,opolski,opolskie,325,8480,2609,https://pl.wikipedia.org/wiki/Ozimek,50.680278,18.21,0965849,<10k
+Ozorków,zgierski,łódzkie,1546,19128,1237,https://pl.wikipedia.org/wiki/Ozork%C3%B3w,51.958333,19.288056,0958967,>10k
+Ożarów,opatowski,świętokrzyskie,779,4451,571,https://pl.wikipedia.org/wiki/O%C5%BCar%C3%B3w,50.890833,21.667778,0980777,<10k
+Ożarów Mazowiecki,warszawski zachodni,mazowieckie,813,12432,1529,https://pl.wikipedia.org/wiki/O%C5%BCar%C3%B3w_Mazowiecki,52.208333,20.793611,0921415,>10k
+Pabianice,pabianicki,łódzkie,3299,63945,1938,https://pl.wikipedia.org/wiki/Pabianice,51.664444,19.355556,0959079,>50k
+Pacanów,buski,świętokrzyskie,713,1132,159,https://pl.wikipedia.org/wiki/Pacan%C3%B3w,50.403333,21.038333,0258715,<10k
+Paczków,nyski,opolskie,660,7366,1116,https://pl.wikipedia.org/wiki/Paczk%C3%B3w,50.466389,17.011389,0965855,<10k
+Pajęczno,pajęczański,łódzkie,2023,6651,329,https://pl.wikipedia.org/wiki/Paj%C4%99czno,51.147222,19.0,0932330,<10k
+Pakość,inowrocławski,kujawsko-pomorskie,346,5624,1625,https://pl.wikipedia.org/wiki/Pako%C5%9B%C4%87,52.807778,18.090278,0929517,<10k
+Parczew,parczewski,lubelskie,805,10555,1311,https://pl.wikipedia.org/wiki/Parczew,51.641361,22.904056,0922254,>10k
+Pasłęk,elbląski,warmińsko-mazurskie,1064,12117,1139,https://pl.wikipedia.org/wiki/Pas%C5%82%C4%99k,54.061931,19.663794,0932927,>10k
+Pasym,szczycieński,warmińsko-mazurskie,1518,2498,165,https://pl.wikipedia.org/wiki/Pasym,53.651111,20.791944,0485813,<10k
+Pelplin,tczewski,pomorskie,442,7597,1719,https://pl.wikipedia.org/wiki/Pelplin,53.926111,18.701111,0934599,<10k
+Pełczyce,choszczeński,zachodniopomorskie,1307,2595,199,https://pl.wikipedia.org/wiki/Pe%C5%82czyce,53.043056,15.304722,0935601,<10k
+Piaseczno,piaseczyński,mazowieckie,1622,48670,3001,https://pl.wikipedia.org/wiki/Piaseczno,52.075556,21.026389,0921438,>10k
+Piaski,świdnicki,lubelskie,844,2531,300,https://pl.wikipedia.org/wiki/Piaski_(powiat_%C5%9Bwidnicki),51.134167,22.844722,0389386,<10k
+Piastów,pruszkowski,mazowieckie,576,22559,3916,https://pl.wikipedia.org/wiki/Piast%C3%B3w,52.184444,20.839722,0921496,>10k
+Piątek,łęczycki,łódzkie,524,1690,323,https://pl.wikipedia.org/wiki/Pi%C4%85tek_(wojew%C3%B3dztwo_%C5%82%C3%B3dzkie),52.069167,19.480556,0573256,<10k
+Piechowice,karkonoski,dolnośląskie,4322,6082,141,https://pl.wikipedia.org/wiki/Piechowice,50.855556,15.618889,0936285,<10k
+Piekary Śląskie,Piekary Śląskie[a],śląskie,3998,54702,1368,https://pl.wikipedia.org/wiki/Piekary_%C5%9Al%C4%85skie,50.373611,18.943889,0942104,>50k
+Pieniężno,braniewski,warmińsko-mazurskie,381,2679,703,https://pl.wikipedia.org/wiki/Pieni%C4%99%C5%BCno,54.236461,20.128508,0932956,<10k
+Pieńsk,zgorzelecki,dolnośląskie,992,5767,581,https://pl.wikipedia.org/wiki/Pie%C5%84sk,51.246389,15.046111,0936351,<10k
+Pierzchnica,kielecki,świętokrzyskie,693,1160,167,https://pl.wikipedia.org/wiki/Pierzchnica,50.697222,20.753056,0262310,<10k
+Pieszyce,dzierżoniowski,dolnośląskie,1772,7012,396,https://pl.wikipedia.org/wiki/Pieszyce,50.712778,16.582222,0984396,<10k
+Pilawa,garwoliński,mazowieckie,666,4564,685,https://pl.wikipedia.org/wiki/Pilawa_(powiat_garwoli%C5%84ski),51.959722,21.523611,0975753,<10k
+Pilica,zawierciański,śląskie,822,1917,233,https://pl.wikipedia.org/wiki/Pilica_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie),50.4675,19.656944,0219566,<10k
+Pilzno,dębicki,podkarpackie,1604,4958,309,https://pl.wikipedia.org/wiki/Pilzno_(Polska),49.978611,21.291389,0982345,<10k
+Piła,pilski,wielkopolskie,10268,72527,706,https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto),53.1475,16.730833,0966530,>50k
+Piława Górna,dzierżoniowski,dolnośląskie,2093,6364,304,https://pl.wikipedia.org/wiki/Pi%C5%82awa_G%C3%B3rna,50.681667,16.754722,0984491,<10k
+Pińczów,pińczowski,świętokrzyskie,1433,10524,734,https://pl.wikipedia.org/wiki/Pi%C5%84cz%C3%B3w,50.520278,20.526111,0947580,>10k
+Pionki,radomski,mazowieckie,1840,17902,973,https://pl.wikipedia.org/wiki/Pionki,51.481667,21.450278,0973748,>10k
+Piotrków Kujawski,radziejowski,kujawsko-pomorskie,976,4392,450,https://pl.wikipedia.org/wiki/Piotrk%C3%B3w_Kujawski,52.551111,18.499167,0867510,<10k
+Piotrków Trybunalski,Piotrków Trybunalski[a],łódzkie,6724,72250,1075,https://pl.wikipedia.org/wiki/Piotrk%C3%B3w_Trybunalski,51.406667,19.695556,0967430,>50k
+Pisz,piski,warmińsko-mazurskie,1008,19029,1888,https://pl.wikipedia.org/wiki/Pisz,53.628889,21.8125,0977835,>10k
+Piwniczna-Zdrój,nowosądecki,małopolskie,3830,5793,151,https://pl.wikipedia.org/wiki/Piwniczna-Zdr%C3%B3j,49.435278,20.711389,0961768,<10k
+Pleszew,pleszewski,wielkopolskie,1338,16953,1267,https://pl.wikipedia.org/wiki/Pleszew,51.897222,17.785556,0937280,>10k
+Płock,Płock[a],mazowieckie,8804,118268,1343,https://pl.wikipedia.org/wiki/P%C5%82ock,52.547222,19.7,0968687,>100k
+Płońsk,płoński,mazowieckie,1160,21924,1890,https://pl.wikipedia.org/wiki/P%C5%82o%C5%84sk,52.623333,20.371111,0930800,>10k
+Płoty,gryficki,zachodniopomorskie,412,3900,947,https://pl.wikipedia.org/wiki/P%C5%82oty,53.808056,15.264722,0979432,<10k
+Pniewy,szamotulski,wielkopolskie,932,8084,867,https://pl.wikipedia.org/wiki/Pniewy,52.508889,16.256389,0971270,<10k
+Pobiedziska,poznański,wielkopolskie,1024,9451,923,https://pl.wikipedia.org/wiki/Pobiedziska,52.48,17.279444,0971287,<10k
+Poddębice,poddębicki,łódzkie,587,7245,1234,https://pl.wikipedia.org/wiki/Podd%C4%99bice,51.893333,18.957222,0976400,<10k
+Podkowa Leśna,grodziski,mazowieckie,1013,3801,375,https://pl.wikipedia.org/wiki/Podkowa_Le%C5%9Bna,52.121667,20.726389,0921504,<10k
+Pogorzela,gostyński,wielkopolskie,436,2087,479,https://pl.wikipedia.org/wiki/Pogorzela,51.822222,17.230556,0954580,<10k
+Polanica-Zdrój,kłodzki,dolnośląskie,1722,6228,362,https://pl.wikipedia.org/wiki/Polanica-Zdr%C3%B3j,50.405833,16.511389,0984522,<10k
+Polanów,koszaliński,zachodniopomorskie,737,2881,391,https://pl.wikipedia.org/wiki/Polan%C3%B3w,54.119444,16.688333,0950115,<10k
+Police,policki,zachodniopomorskie,3731,32243,864,https://pl.wikipedia.org/wiki/Police,53.55,14.570833,0979449,>10k
+Polkowice,polkowicki,dolnośląskie,2374,22435,945,https://pl.wikipedia.org/wiki/Polkowice,51.501111,16.0675,0954165,>10k
+Połaniec,staszowski,świętokrzyskie,1741,7988,459,https://pl.wikipedia.org/wiki/Po%C5%82aniec,50.4325,21.280556,0980783,<10k
+Połczyn-Zdrój,świdwiński,zachodniopomorskie,721,7987,1108,https://pl.wikipedia.org/wiki/Po%C5%82czyn-Zdr%C3%B3j,53.765833,16.0925,0950144,<10k
+Poniatowa,opolski,lubelskie,1526,8980,588,https://pl.wikipedia.org/wiki/Poniatowa,51.181667,22.068611,0956744,<10k
+Poniec,gostyński,wielkopolskie,348,2878,827,https://pl.wikipedia.org/wiki/Poniec,51.763889,16.808333,0954596,<10k
+Poręba,zawierciański,śląskie,3999,8461,212,https://pl.wikipedia.org/wiki/Por%C4%99ba,50.492778,19.333611,0942216,<10k
+Poznań,Poznań[a],wielkopolskie,26191,532048,2031,https://pl.wikipedia.org/wiki/Pozna%C5%84,52.408333,16.934167,0969400,>500k
+Prabuty,kwidzyński,pomorskie,729,8625,1183,https://pl.wikipedia.org/wiki/Prabuty,53.755833,19.1975,0932962,<10k
+Praszka,oleski,opolskie,935,7515,804,https://pl.wikipedia.org/wiki/Praszka,51.056111,18.450556,0932353,<10k
+Prochowice,legnicki,dolnośląskie,985,3556,361,https://pl.wikipedia.org/wiki/Prochowice,51.274167,16.365,0954171,<10k
+Proszowice,proszowicki,małopolskie,733,5977,815,https://pl.wikipedia.org/wiki/Proszowice,50.193139,20.288717,0951818,<10k
+Prószków,opolski,opolskie,1622,2561,158,https://pl.wikipedia.org/wiki/Pr%C3%B3szk%C3%B3w,50.576389,17.871389,0502523,<10k
+Pruchnik,jarosławski,podkarpackie,1990,3740,188,https://pl.wikipedia.org/wiki/Pruchnik,49.906111,22.516111,0608316,<10k
+Prudnik,prudnicki,opolskie,2050,20671,1008,https://pl.wikipedia.org/wiki/Prudnik,50.319722,17.579167,0965878,>10k
+Prusice,trzebnicki,dolnośląskie,1094,2226,203,https://pl.wikipedia.org/wiki/Prusice,51.370556,16.959722,0879914,<10k
+Pruszcz Gdański,gdański,pomorskie,1647,31578,1917,https://pl.wikipedia.org/wiki/Pruszcz_Gda%C5%84ski,54.261944,18.636389,0934620,>10k
+Pruszków,pruszkowski,mazowieckie,1919,62623,3263,https://pl.wikipedia.org/wiki/Pruszk%C3%B3w,52.165556,20.805556,0921510,>50k
+Przasnysz,przasnyski,mazowieckie,2516,17055,678,https://pl.wikipedia.org/wiki/Przasnysz,53.019444,20.880556,0966398,>10k
+Przecław,mielecki,podkarpackie,1604,1788,111,https://pl.wikipedia.org/wiki/Przec%C5%82aw,50.193333,21.48,0658828,<10k
+Przedbórz,radomszczański,łódzkie,608,3458,569,https://pl.wikipedia.org/wiki/Przedb%C3%B3rz,51.087778,19.873889,0968026,<10k
+Przedecz,kolski,wielkopolskie,298,1621,544,https://pl.wikipedia.org/wiki/Przedecz,52.335556,18.896667,0949129,<10k
+Przemków,polkowicki,dolnośląskie,617,6079,985,https://pl.wikipedia.org/wiki/Przemk%C3%B3w,51.526667,15.784722,0954194,<10k
+Przemyśl,Przemyśl[a],podkarpackie,4617,59779,1295,https://pl.wikipedia.org/wiki/Przemy%C5%9Bl,49.782222,22.774444,0971672,>50k
+Przeworsk,przeworski,podkarpackie,2213,15105,683,https://pl.wikipedia.org/wiki/Przeworsk,50.058611,22.493611,0972513,>10k
+Przysucha,przysuski,mazowieckie,702,5769,822,https://pl.wikipedia.org/wiki/Przysucha,51.358333,20.628333,0973777,<10k
+Pszczyna,pszczyński,śląskie,2249,25702,1143,https://pl.wikipedia.org/wiki/Pszczyna,49.978056,18.941667,0942222,>10k
+Pszów,wodzisławski,śląskie,2044,13734,672,https://pl.wikipedia.org/wiki/Psz%C3%B3w,50.045,18.3906,0945083,>10k
+Puck,pucki,pomorskie,479,11139,2325,https://pl.wikipedia.org/wiki/Puck,54.717778,18.408611,0934636,>10k
+Puławy,puławski,lubelskie,5049,46965,930,https://pl.wikipedia.org/wiki/Pu%C5%82awy,51.416389,21.969167,0956810,>10k
+Pułtusk,pułtuski,mazowieckie,2307,19294,836,https://pl.wikipedia.org/wiki/Pu%C5%82tusk,52.705,21.083889,0930816,>10k
+Puszczykowo,poznański,wielkopolskie,1639,9575,584,https://pl.wikipedia.org/wiki/Puszczykowo,52.281667,16.854167,0971376,<10k
+Pyrzyce,pyrzycki,zachodniopomorskie,3879,12484,322,https://pl.wikipedia.org/wiki/Pyrzyce,53.143056,14.893056,0979515,>10k
+Pyskowice,gliwicki,śląskie,3089,18455,597,https://pl.wikipedia.org/wiki/Pyskowice,50.398056,18.6275,0942417,>10k
+Pyzdry,wrzesiński,wielkopolskie,1216,3092,254,https://pl.wikipedia.org/wiki/Pyzdry,52.170278,17.69,0949164,<10k
+Rabka-Zdrój,nowotarski,małopolskie,3631,12662,349,https://pl.wikipedia.org/wiki/Rabka-Zdr%C3%B3j,49.609722,19.965833,0962503,>10k
+Raciąż,płoński,mazowieckie,840,4390,523,https://pl.wikipedia.org/wiki/Raci%C4%85%C5%BC,52.781111,20.117778,0930839,<10k
+Racibórz,raciborski,śląskie,7501,54259,723,https://pl.wikipedia.org/wiki/Racib%C3%B3rz,50.091944,18.219722,0942469,>50k
+Radków,kłodzki,dolnośląskie,1503,2401,160,https://pl.wikipedia.org/wiki/Radk%C3%B3w,50.503889,16.403333,0984539,<10k
+Radlin,wodzisławski,śląskie,1253,17665,1410,https://pl.wikipedia.org/wiki/Radlin,50.0412,18.466,0945108,>10k
+Radłów,tarnowski,małopolskie,1683,2757,164,https://pl.wikipedia.org/wiki/Rad%C5%82%C3%B3w,50.08544,20.842069,0827923,<10k
+Radom,Radom[a],mazowieckie,11180,209296,1872,https://pl.wikipedia.org/wiki/Radom,51.403611,21.156667,0972750,>100k
+Radomsko,radomszczański,łódzkie,5143,45353,882,https://pl.wikipedia.org/wiki/Radomsko,51.067222,19.443611,0968078,>10k
+Radomyśl Wielki,mielecki,podkarpackie,879,3225,367,https://pl.wikipedia.org/wiki/Radomy%C5%9Bl_Wielki,50.194722,21.273333,0982411,<10k
+Radoszyce,konecki,świętokrzyskie,1717,3095,180,https://pl.wikipedia.org/wiki/Radoszyce,51.074167,20.263056,0264986,<10k
+Radymno,jarosławski,podkarpackie,1362,5214,383,https://pl.wikipedia.org/wiki/Radymno,49.951944,22.818056,0972594,<10k
+Radziejów,radziejowski,kujawsko-pomorskie,569,5499,966,https://pl.wikipedia.org/wiki/Radziej%C3%B3w,52.62392,18.52824,0986060,<10k
+Radzionków,tarnogórski,śląskie,1320,16903,1281,https://pl.wikipedia.org/wiki/Radzionk%C3%B3w,50.399722,18.901667,0938806,>10k
+Radzymin,wołomiński,mazowieckie,2339,13313,569,https://pl.wikipedia.org/wiki/Radzymin,52.418056,21.181111,0921591,>10k
+Radzyń Chełmiński,grudziądzki,kujawsko-pomorskie,178,1784,1002,https://pl.wikipedia.org/wiki/Radzy%C5%84_Che%C5%82mi%C5%84ski,53.385556,18.936389,0983630,<10k
+Radzyń Podlaski,radzyński,lubelskie,1931,15428,799,https://pl.wikipedia.org/wiki/Radzy%C5%84_Podlaski,51.782778,22.624167,0922277,>10k
+Rajgród,grajewski,podlaskie,3528,1539,44,https://pl.wikipedia.org/wiki/Rajgr%C3%B3d,53.733611,22.700278,0957465,<10k
+Rakoniewice,grodziski,wielkopolskie,337,3619,1074,https://pl.wikipedia.org/wiki/Rakoniewice,52.140833,16.273056,0971413,<10k
+Raszków,ostrowski,wielkopolskie,205,2119,1034,https://pl.wikipedia.org/wiki/Raszk%C3%B3w,51.720833,17.726944,0937310,<10k
+Rawa Mazowiecka,rawski,łódzkie,1430,17193,1202,https://pl.wikipedia.org/wiki/Rawa_Mazowiecka,51.766667,20.25,0977077,>10k
+Rawicz,rawicki,wielkopolskie,887,20187,2276,https://pl.wikipedia.org/wiki/Rawicz,51.609167,16.8575,0954604,>10k
+Recz,choszczeński,zachodniopomorskie,1240,2873,232,https://pl.wikipedia.org/wiki/Recz,53.262222,15.547222,0935653,<10k
+Reda,wejherowski,pomorskie,3346,26707,798,https://pl.wikipedia.org/wiki/Reda_(miasto),54.6075,18.346111,0934659,>10k
+Rejowiec,chełmski,lubelskie,650,2026,312,https://pl.wikipedia.org/wiki/Rejowiec,51.094444,23.283056,0105667,<10k
+Rejowiec Fabryczny,chełmski,lubelskie,1428,4328,303,https://pl.wikipedia.org/wiki/Rejowiec_Fabryczny,51.119444,23.245,0930176,<10k
+Resko,łobeski,zachodniopomorskie,449,4147,924,https://pl.wikipedia.org/wiki/Resko,53.773056,15.405833,0979580,<10k
+Reszel,kętrzyński,warmińsko-mazurskie,382,4535,1187,https://pl.wikipedia.org/wiki/Reszel,54.053247,21.152522,0964979,<10k
+Rogoźno,obornicki,wielkopolskie,1124,11124,990,https://pl.wikipedia.org/wiki/Rogo%C5%BAno,52.749167,16.999722,0967080,>10k
+Ropczyce,ropczycko-sędziszowski,podkarpackie,4710,15864,337,https://pl.wikipedia.org/wiki/Ropczyce,50.052778,21.609167,0974825,>10k
+Różan,makowski,mazowieckie,666,2698,405,https://pl.wikipedia.org/wiki/R%C3%B3%C5%BCan,52.888889,21.396389,0966412,<10k
+Ruciane-Nida,piski,warmińsko-mazurskie,1707,4434,260,https://pl.wikipedia.org/wiki/Ruciane-Nida,53.650297,21.549944,0977841,<10k
+Ruda Śląska,Ruda Śląska[a],śląskie,7773,136423,1755,https://pl.wikipedia.org/wiki/Ruda_%C5%9Al%C4%85ska,50.262778,18.853611,0942630,>100k
+Rudnik nad Sanem,niżański,podkarpackie,3660,6677,182,https://pl.wikipedia.org/wiki/Rudnik_nad_Sanem,50.443056,22.248056,0980850,<10k
+Rumia,wejherowski,pomorskie,3010,49536,1646,https://pl.wikipedia.org/wiki/Rumia,54.570556,18.387778,0934694,>10k
+Rybnik,Rybnik[a],śląskie,14836,137128,924,https://pl.wikipedia.org/wiki/Rybnik,50.098611,18.545,0942765,>100k
+Rychwał,koniński,wielkopolskie,970,2353,243,https://pl.wikipedia.org/wiki/Rychwa%C5%82,52.071111,18.166944,0949193,<10k
+Rydułtowy,wodzisławski,śląskie,1495,21385,1430,https://pl.wikipedia.org/wiki/Rydu%C5%82towy,50.0665,18.421,0943121,>10k
+Rydzyna,leszczyński,wielkopolskie,220,2919,1327,https://pl.wikipedia.org/wiki/Rydzyna,51.786944,16.666944,0954633,<10k
+Ryglice,tarnowski,małopolskie,2515,2830,113,https://pl.wikipedia.org/wiki/Ryglice,49.878611,21.137222,0829098,<10k
+Ryki,rycki,lubelskie,2722,9531,350,https://pl.wikipedia.org/wiki/Ryki,51.624722,21.933056,0956980,<10k
+Rymanów,krośnieński,podkarpackie,1239,3774,305,https://pl.wikipedia.org/wiki/Ryman%C3%B3w,49.576389,21.8675,0953421,<10k
+Ryn,giżycki,warmińsko-mazurskie,414,2827,683,https://pl.wikipedia.org/wiki/Ryn,53.944325,21.515047,0977893,<10k
+Rypin,rypiński,kujawsko-pomorskie,1096,15999,1460,https://pl.wikipedia.org/wiki/Rypin,53.066944,19.406944,0986136,>10k
+Rzepin,słubicki,lubuskie,1142,6485,568,https://pl.wikipedia.org/wiki/Rzepin,52.346389,14.832222,0935682,<10k
+Rzeszów,Rzeszów[a],podkarpackie,12901,197863,1534,https://pl.wikipedia.org/wiki/Rzesz%C3%B3w,50.033611,22.004722,0974133,>100k
+Rzgów,łódzki wschodni,łódzkie,1677,3382,202,https://pl.wikipedia.org/wiki/Rzg%C3%B3w,51.663056,19.489444,0415787,<10k
+Sandomierz,sandomierski,świętokrzyskie,2869,22997,802,https://pl.wikipedia.org/wiki/Sandomierz,50.682222,21.748889,0980926,>10k
+Sanniki,gostyniński,mazowieckie,1176,1932,164,https://pl.wikipedia.org/wiki/Sanniki,52.331667,19.864167,0574511,<10k
+Sanok,sanocki,podkarpackie,3808,36999,972,https://pl.wikipedia.org/wiki/Sanok,49.558333,22.205556,0953510,>10k
+Sejny,sejneński,podlaskie,449,5159,1149,https://pl.wikipedia.org/wiki/Sejny,54.106667,23.348611,0977918,<10k
+Serock,legionowski,mazowieckie,1343,4658,347,https://pl.wikipedia.org/wiki/Serock,52.513889,21.072222,0921645,<10k
+Sędziszów,jędrzejowski,świętokrzyskie,792,6359,803,https://pl.wikipedia.org/wiki/S%C4%99dzisz%C3%B3w,50.562778,20.05,0947610,<10k
+Sędziszów Małopolski,ropczycko-sędziszowski,podkarpackie,3699,12415,336,https://pl.wikipedia.org/wiki/S%C4%99dzisz%C3%B3w_Ma%C5%82opolski,50.069444,21.701389,0974937,>10k
+Sępopol,bartoszycki,warmińsko-mazurskie,463,1883,407,https://pl.wikipedia.org/wiki/S%C4%99popol,54.269194,21.014428,0964985,<10k
+Sępólno Krajeńskie,sępoleński,kujawsko-pomorskie,655,9004,1375,https://pl.wikipedia.org/wiki/S%C4%99p%C3%B3lno_Kraje%C5%84skie,53.454167,17.533333,0929546,<10k
+Sianów,koszaliński,zachodniopomorskie,1588,6560,413,https://pl.wikipedia.org/wiki/Sian%C3%B3w,54.230278,16.2975,0950240,<10k
+Siechnice,wrocławski,dolnośląskie,1563,8851,566,https://pl.wikipedia.org/wiki/Siechnice,51.033056,17.145556,0881160,<10k
+Siedlce,Siedlce[a],mazowieckie,3186,77813,2442,https://pl.wikipedia.org/wiki/Siedlce,52.166667,22.275,0975173,>50k
+Siedliszcze,chełmski,lubelskie,1316,1406,107,https://pl.wikipedia.org/wiki/Siedliszcze,51.194444,23.163889,0107821,<10k
+Siemianowice Śląskie,Siemianowice Śląskie[a],śląskie,2550,66270,2599,https://pl.wikipedia.org/wiki/Siemianowice_%C5%9Al%C4%85skie,50.326944,19.030556,0943150,>50k
+Siemiatycze,siemiatycki,podlaskie,3625,14210,392,https://pl.wikipedia.org/wiki/Siemiatycze,52.427222,22.8625,0923360,>10k
+Sieniawa,przeworski,podkarpackie,674,2132,316,https://pl.wikipedia.org/wiki/Sieniawa,50.178056,22.61,0972683,<10k
+Sieradz,sieradzki,łódzkie,5122,41390,808,https://pl.wikipedia.org/wiki/Sieradz,51.595278,18.730556,0976050,>10k
+Sieraków,międzychodzki,wielkopolskie,1408,5956,423,https://pl.wikipedia.org/wiki/Sierak%C3%B3w,52.648889,16.081389,0971436,<10k
+Sierpc,sierpecki,mazowieckie,1859,17788,957,https://pl.wikipedia.org/wiki/Sierpc,52.853056,19.668056,0969310,>10k
+Siewierz,będziński,śląskie,3866,5544,143,https://pl.wikipedia.org/wiki/Siewierz,50.466389,19.23,0943204,<10k
+Skalbmierz,kazimierski,świętokrzyskie,713,1263,177,https://pl.wikipedia.org/wiki/Skalbmierz,50.319444,20.399167,0947627,<10k
+Skała,krakowski,małopolskie,297,3755,1264,https://pl.wikipedia.org/wiki/Ska%C5%82a_(wojew%C3%B3dztwo_ma%C5%82opolskie),50.230556,19.853611,0951860,<10k
+Skarszewy,starogardzki,pomorskie,1079,7015,650,https://pl.wikipedia.org/wiki/Skarszewy,54.067222,18.445833,0934754,<10k
+Skaryszew,radomski,mazowieckie,2749,4310,157,https://pl.wikipedia.org/wiki/Skaryszew,51.310556,21.251944,0973820,<10k
+Skarżysko-Kamienna,skarżyski,świętokrzyskie,6439,44260,687,https://pl.wikipedia.org/wiki/Skar%C5%BCysko-Kamienna,51.116389,20.866944,0947716,>10k
+Skawina,krakowski,małopolskie,2050,24366,1189,https://pl.wikipedia.org/wiki/Skawina,49.975,19.828333,0951876,>10k
+Skępe,lipnowski,kujawsko-pomorskie,748,3542,474,https://pl.wikipedia.org/wiki/Sk%C4%99pe,52.867222,19.346944,0869583,<10k
+Skierniewice,Skierniewice[a],łódzkie,3460,47655,1377,https://pl.wikipedia.org/wiki/Skierniewice,51.952778,20.141667,0976942,>10k
+Skoczów,cieszyński,śląskie,985,14116,1433,https://pl.wikipedia.org/wiki/Skocz%C3%B3w,49.803333,18.789722,0925198,>10k
+Skoki,wągrowiecki,wielkopolskie,1120,4462,398,https://pl.wikipedia.org/wiki/Skoki_(powiat_w%C4%85growiecki),52.673889,17.162222,0971459,<10k
+Skórcz,starogardzki,pomorskie,363,3603,993,https://pl.wikipedia.org/wiki/Sk%C3%B3rcz,53.796667,18.526111,0934777,<10k
+Skwierzyna,międzyrzecki,lubuskie,3589,9454,263,https://pl.wikipedia.org/wiki/Skwierzyna,52.598889,15.506111,0935699,<10k
+Sława,wschowski,lubuskie,1490,4268,286,https://pl.wikipedia.org/wiki/S%C5%82awa_(miasto),51.875833,16.071667,0988589,<10k
+Sławków,będziński,śląskie,3667,6935,189,https://pl.wikipedia.org/wiki/S%C5%82awk%C3%B3w_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie),50.29943,19.38967,0943285,<10k
+Sławno,sławieński,zachodniopomorskie,1583,12357,781,https://pl.wikipedia.org/wiki/S%C5%82awno,54.362222,16.680278,0977410,>10k
+Słomniki,krakowski,małopolskie,343,4293,1252,https://pl.wikipedia.org/wiki/S%C5%82omniki,50.240833,20.081667,0952077,<10k
+Słubice,słubicki,lubuskie,1921,16623,865,https://pl.wikipedia.org/wiki/S%C5%82ubice,52.354167,14.568889,0935736,>10k
+Słupca,słupecki,wielkopolskie,1030,13564,1317,https://pl.wikipedia.org/wiki/S%C5%82upca,52.287222,17.871111,0949247,>10k
+Słupsk,Słupsk[a],pomorskie,4315,89780,2081,https://pl.wikipedia.org/wiki/S%C5%82upsk,54.465833,17.029167,0977278,>50k
+Sobótka,wrocławski,dolnośląskie,3220,6954,216,https://pl.wikipedia.org/wiki/Sob%C3%B3tka_(powiat_wroc%C5%82awski),50.898611,16.744444,0987294,<10k
+Sochaczew,sochaczewski,mazowieckie,2619,35891,1370,https://pl.wikipedia.org/wiki/Sochaczew,52.227778,20.241667,0977120,>10k
+Sochocin,płoński,mazowieckie,683,1900,278,https://pl.wikipedia.org/wiki/Sochocin,52.690278,20.471667,0125954[5],<10k
+Sokołów Małopolski,rzeszowski,podkarpackie,1554,4210,271,https://pl.wikipedia.org/wiki/Soko%C5%82%C3%B3w_Ma%C5%82opolski,50.2325,22.120833,0974966,<10k
+Sokołów Podlaski,sokołowski,mazowieckie,1751,18814,1074,https://pl.wikipedia.org/wiki/Soko%C5%82%C3%B3w_Podlaski,52.4075,22.249722,0975760,>10k
+Sokółka,sokólski,podlaskie,1859,17967,966,https://pl.wikipedia.org/wiki/Sok%C3%B3%C5%82ka,53.406944,23.5,0923443,>10k
+Solec Kujawski,bydgoski,kujawsko-pomorskie,1868,15614,836,https://pl.wikipedia.org/wiki/Solec_Kujawski,53.080556,18.222222,0929552,>10k
+Solec nad Wisłą,lipski,mazowieckie,2091,939,45,https://pl.wikipedia.org/wiki/Solec_nad_Wis%C5%82%C4%85,51.133889,21.763056,0637921,<10k
+Sompolno,koniński,wielkopolskie,621,3472,559,https://pl.wikipedia.org/wiki/Sompolno,52.388056,18.501667,0949253,<10k
+Sopot,Sopot[a],pomorskie,1728,35286,2042,https://pl.wikipedia.org/wiki/Sopot,54.441944,18.559722,0934783,>10k
+Sosnowiec,Sosnowiec[a],śląskie,9106,197586,2170,https://pl.wikipedia.org/wiki/Sosnowiec,50.283333,19.133333,0943428,>100k
+Sośnicowice,gliwicki,śląskie,1167,1927,165,https://pl.wikipedia.org/wiki/So%C5%9Bnicowice,50.272222,18.529722,0221936,<10k
+Stalowa Wola,stalowowolski,podkarpackie,8252,59623,723,https://pl.wikipedia.org/wiki/Stalowa_Wola,50.576111,22.061111,0981133,>50k
+Starachowice,starachowicki,świętokrzyskie,3182,47638,1497,https://pl.wikipedia.org/wiki/Starachowice,51.036667,21.070833,0947930,>10k
+Stargard,stargardzki,zachodniopomorskie,4808,67579,1406,https://pl.wikipedia.org/wiki/Stargard,53.3375,15.037778,0979596,>50k
+Starogard Gdański,starogardzki,pomorskie,2528,47272,1870,https://pl.wikipedia.org/wiki/Starogard_Gda%C5%84ski,53.963056,18.525833,0934837,>10k
+Stary Sącz,nowosądecki,małopolskie,1500,9016,601,https://pl.wikipedia.org/wiki/Stary_S%C4%85cz,49.5625,20.636389,0963359,<10k
+Staszów,staszowski,świętokrzyskie,2688,14534,541,https://pl.wikipedia.org/wiki/Stasz%C3%B3w,50.560556,21.166667,0981274,>10k
+Stawiski,kolneński,podlaskie,1324,2159,163,https://pl.wikipedia.org/wiki/Stawiski,53.37975,22.154944,0957548,<10k
+Stawiszyn,kaliski,wielkopolskie,99,1461,1476,https://pl.wikipedia.org/wiki/Stawiszyn,51.918333,18.111389,0937327,<10k
+Stąporków,konecki,świętokrzyskie,1094,5569,509,https://pl.wikipedia.org/wiki/St%C4%85pork%C3%B3w,51.139167,20.552778,0948271,<10k
+Stepnica,goleniowski,zachodniopomorskie,340,2464,725,https://pl.wikipedia.org/wiki/Stepnica,53.653611,14.6325,0783864,<10k
+Stęszew,poznański,wielkopolskie,569,5903,1037,https://pl.wikipedia.org/wiki/St%C4%99szew,52.278889,16.708056,0971494,<10k
+Stoczek Łukowski,łukowski,lubelskie,915,2480,271,https://pl.wikipedia.org/wiki/Stoczek_%C5%81ukowski,51.963333,21.968333,0975813,<10k
+Stopnica,buski,świętokrzyskie,455,1414,311,https://pl.wikipedia.org/wiki/Stopnica,50.439167,20.940556,0272951,<10k
+Stronie Śląskie,kłodzki,dolnośląskie,238,5616,2360,https://pl.wikipedia.org/wiki/Stronie_%C5%9Al%C4%85skie,50.295556,16.8775,0984545[2],<10k
+Strumień,cieszyński,śląskie,629,3659,582,https://pl.wikipedia.org/wiki/Strumie%C5%84_(miasto),49.916667,18.763611,0925258,<10k
+Stryków,zgierski,łódzkie,815,3428,421,https://pl.wikipedia.org/wiki/Stryk%C3%B3w,51.901111,19.610833,0959240,<10k
+Strzegom,świdnicki,dolnośląskie,2049,15873,775,https://pl.wikipedia.org/wiki/Strzegom,50.961111,16.344444,0984551,>10k
+Strzelce Krajeńskie,strzelecko-drezdenecki,lubuskie,554,9833,1775,https://pl.wikipedia.org/wiki/Strzelce_Kraje%C5%84skie,52.875556,15.531944,0935742,<10k
+Strzelce Opolskie,strzelecki,opolskie,2997,17657,589,https://pl.wikipedia.org/wiki/Strzelce_Opolskie,50.511111,18.300556,0965915,>10k
+Strzelin,strzeliński,dolnośląskie,1274,12383,972,https://pl.wikipedia.org/wiki/Strzelin,50.780833,17.064722,0987331,>10k
+Strzelno,mogileński,kujawsko-pomorskie,446,5589,1253,https://pl.wikipedia.org/wiki/Strzelno,52.63,18.173056,0929598,<10k
+Strzyżów,strzyżowski,podkarpackie,1389,8781,632,https://pl.wikipedia.org/wiki/Strzy%C5%BC%C3%B3w,49.870833,21.791111,0975010,<10k
+Sucha Beskidzka,suski,małopolskie,2765,9044,327,https://pl.wikipedia.org/wiki/Sucha_Beskidzka,49.740278,19.588611,0925287,<10k
+Suchań,stargardzki,zachodniopomorskie,357,1440,403,https://pl.wikipedia.org/wiki/Sucha%C5%84,53.278611,15.324722,0979716,<10k
+Suchedniów,skarżyski,świętokrzyskie,5940,8248,139,https://pl.wikipedia.org/wiki/Suchedni%C3%B3w,51.051667,20.8325,0948360,<10k
+Suchowola,sokólski,podlaskie,2595,2137,82,https://pl.wikipedia.org/wiki/Suchowola,53.579444,23.101667,0041312,<10k
+Sulechów,zielonogórski,lubuskie,688,16592,2412,https://pl.wikipedia.org/wiki/Sulech%C3%B3w,52.078333,15.620278,0988595,>10k
+Sulejów,piotrkowski,łódzkie,2626,6130,233,https://pl.wikipedia.org/wiki/Sulej%C3%B3w,51.352778,19.884722,0968233,<10k
+Sulejówek,miński,mazowieckie,1931,19951,1033,https://pl.wikipedia.org/wiki/Sulej%C3%B3wek,52.244167,21.28,0921668,>10k
+Sulęcin,sulęciński,lubuskie,856,10005,1169,https://pl.wikipedia.org/wiki/Sul%C4%99cin,52.443889,15.116111,0935759,>10k
+Sulmierzyce,krotoszyński,wielkopolskie,2929,2831,97,https://pl.wikipedia.org/wiki/Sulmierzyce,51.605833,17.530833,0937333,<10k
+Sułkowice,myślenicki,małopolskie,1646,6658,404,https://pl.wikipedia.org/wiki/Su%C5%82kowice,49.837778,19.795556,0952137,<10k
+Supraśl,białostocki,podlaskie,569,4582,805,https://pl.wikipedia.org/wiki/Supra%C5%9Bl,53.211111,23.3375,0923472,<10k
+Suraż,białostocki,podlaskie,3386,983,29,https://pl.wikipedia.org/wiki/Sura%C5%BC,52.949722,22.956389,0923510,<10k
+Susz,iławski,warmińsko-mazurskie,667,5529,829,https://pl.wikipedia.org/wiki/Susz,53.716944,19.335278,0932979,<10k
+Suwałki,Suwałki[a],podlaskie,6551,69639,1063,https://pl.wikipedia.org/wiki/Suwa%C5%82ki,54.101111,22.9325,0977456,>50k
+Swarzędz,poznański,wielkopolskie,823,29862,3628,https://pl.wikipedia.org/wiki/Swarz%C4%99dz,52.408333,17.071389,0971502,>10k
+Syców,oleśnicki,dolnośląskie,1705,10340,606,https://pl.wikipedia.org/wiki/Syc%C3%B3w,51.31,17.723611,0937379,>10k
+Szadek,zduńskowolski,łódzkie,1793,1898,106,https://pl.wikipedia.org/wiki/Szadek,51.691111,18.974167,0976451,<10k
+Szamocin,chodzieski,wielkopolskie,467,4192,898,https://pl.wikipedia.org/wiki/Szamocin,53.030278,17.120556,0967096,<10k
+Szamotuły,szamotulski,wielkopolskie,1108,18736,1691,https://pl.wikipedia.org/wiki/Szamotu%C5%82y,52.611111,16.578889,0971531,>10k
+Szczawnica,nowotarski,małopolskie,3290,5655,172,https://pl.wikipedia.org/wiki/Szczawnica,49.422778,20.482778,0963454,<10k
+Szczawno-Zdrój,wałbrzyski,dolnośląskie,1474,5534,375,https://pl.wikipedia.org/wiki/Szczawno-Zdr%C3%B3j,50.799444,16.255,0984574,<10k
+Szczebrzeszyn,zamojski,lubelskie,2912,4962,170,https://pl.wikipedia.org/wiki/Szczebrzeszyn,50.694722,22.979444,0987934,<10k
+Szczecin,Szczecin[a],zachodniopomorskie,30060,398255,1325,https://pl.wikipedia.org/wiki/Szczecin,53.438056,14.542222,0977976,>250k
+Szczecinek,szczecinecki,zachodniopomorskie,4848,39827,822,https://pl.wikipedia.org/wiki/Szczecinek,53.720833,16.686111,0950262,>10k
+Szczekociny,zawierciański,śląskie,1803,3532,196,https://pl.wikipedia.org/wiki/Szczekociny,50.6275,19.825278,0932413,<10k
+Szczucin,dąbrowski,małopolskie,685,4154,606,https://pl.wikipedia.org/wiki/Szczucin,50.309056,21.074806,0831149,<10k
+Szczuczyn,grajewski,podlaskie,1323,3341,253,https://pl.wikipedia.org/wiki/Szczuczyn_(wojew%C3%B3dztwo_podlaskie),53.566111,22.285,0957560,<10k
+Szczyrk,bielski,śląskie,3928,5711,145,https://pl.wikipedia.org/wiki/Szczyrk,49.716111,19.026944,0925850,<10k
+Szczytna,kłodzki,dolnośląskie,8038,5044,63,https://pl.wikipedia.org/wiki/Szczytna,50.413056,16.447222,0984597,<10k
+Szczytno,szczycieński,warmińsko-mazurskie,1062,22813,2148,https://pl.wikipedia.org/wiki/Szczytno,53.562778,20.985278,0964991,>10k
+Szepietowo,wysokomazowiecki,podlaskie,284,2157,760,https://pl.wikipedia.org/wiki/Szepietowo,52.869722,22.546389,0407380,<10k
+Szklarska Poręba,karkonoski,dolnośląskie,7544,6653,88,https://pl.wikipedia.org/wiki/Szklarska_Por%C4%99ba,50.826667,15.521111,0936368,<10k
+Szlichtyngowa,wschowski,lubuskie,155,1266,817,https://pl.wikipedia.org/wiki/Szlichtyngowa,51.711944,16.242222,0954640,<10k
+Szprotawa,żagański,lubuskie,1095,11530,1053,https://pl.wikipedia.org/wiki/Szprotawa,51.566667,15.536667,0988603,>10k
+Sztum,sztumski,pomorskie,459,9798,2135,https://pl.wikipedia.org/wiki/Sztum,53.921667,19.033611,0932991,<10k
+Szubin,nakielski,kujawsko-pomorskie,765,9578,1252,https://pl.wikipedia.org/wiki/Szubin,53.011667,17.743611,0929612,<10k
+Szydłowiec,szydłowiecki,mazowieckie,2189,11557,528,https://pl.wikipedia.org/wiki/Szyd%C5%82owiec,51.223889,20.857222,0973895,>10k
+Szydłów,staszowski,świętokrzyskie,1621,1095,68,https://pl.wikipedia.org/wiki/Szyd%C5%82%C3%B3w,50.590556,21.002778,0275062,<10k
+Ścinawa,lubiński,dolnośląskie,1354,5526,408,https://pl.wikipedia.org/wiki/%C5%9Acinawa,51.411111,16.423056,0954202,<10k
+Ślesin,koniński,wielkopolskie,718,3124,435,https://pl.wikipedia.org/wiki/%C5%9Alesin,52.370278,18.306389,0949282,<10k
+Śmigiel,kościański,wielkopolskie,530,5621,1061,https://pl.wikipedia.org/wiki/%C5%9Amigiel,52.009167,16.518611,0954656,<10k
+Śrem,śremski,wielkopolskie,1237,29176,2359,https://pl.wikipedia.org/wiki/%C5%9Arem,52.088611,17.014722,0971560,>10k
+Środa Śląska,średzki,dolnośląskie,1494,9562,640,https://pl.wikipedia.org/wiki/%C5%9Aroda_%C5%9Al%C4%85ska,51.163889,16.595,0987348,<10k
+Środa Wielkopolska,średzki,wielkopolskie,2192,23672,1080,https://pl.wikipedia.org/wiki/%C5%9Aroda_Wielkopolska,52.231944,17.266389,0971614,>10k
+Świątniki Górne,krakowski,małopolskie,444,2441,550,https://pl.wikipedia.org/wiki/%C5%9Awi%C4%85tniki_G%C3%B3rne,49.934722,19.953889,0337774,<10k
+Świdnica,świdnicki,dolnośląskie,2176,56222,2584,https://pl.wikipedia.org/wiki/%C5%9Awidnica,50.844444,16.491667,0984657,>50k
+Świdnik,świdnicki,lubelskie,2035,38763,1905,https://pl.wikipedia.org/wiki/%C5%9Awidnik,51.219722,22.7,0957146,>10k
+Świdwin,świdwiński,zachodniopomorskie,2238,15338,685,https://pl.wikipedia.org/wiki/%C5%9Awidwin,53.774444,15.776667,0950322,>10k
+Świebodzice,świdnicki,dolnośląskie,3043,22642,744,https://pl.wikipedia.org/wiki/%C5%9Awiebodzice,50.859444,16.318056,0984663,>10k
+Świebodzin,świebodziński,lubuskie,1693,21550,1273,https://pl.wikipedia.org/wiki/%C5%9Awiebodzin,52.246944,15.533611,0988626,>10k
+Świecie,świecki,kujawsko-pomorskie,1187,25486,2147,https://pl.wikipedia.org/wiki/%C5%9Awiecie,53.408333,18.445833,0929664,>10k
+Świeradów-Zdrój,lubański,dolnośląskie,2072,3995,193,https://pl.wikipedia.org/wiki/%C5%9Awierad%C3%B3w-Zdr%C3%B3j,50.908333,15.333333,0936457,<10k
+Świerzawa,złotoryjski,dolnośląskie,176,2234,1269,https://pl.wikipedia.org/wiki/%C5%9Awierzawa,51.014722,15.892778,0936486,<10k
+Świętochłowice,Świętochłowice[a],śląskie,1331,49108,3690,https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99toch%C5%82owice,50.291944,18.917778,0943724,>10k
+Świnoujście,Świnoujście[a],zachodniopomorskie,20207,40948,203,https://pl.wikipedia.org/wiki/%C5%9Awinouj%C5%9Bcie,53.907778,14.2475,0979722,>10k
+Tarczyn,piaseczyński,mazowieckie,523,4150,793,https://pl.wikipedia.org/wiki/Tarczyn,51.980278,20.833611,0009478,<10k
+Tarnobrzeg,Tarnobrzeg[a],podkarpackie,8540,46360,543,https://pl.wikipedia.org/wiki/Tarnobrzeg,50.572778,21.678611,0980085,>10k
+Tarnogród,biłgorajski,lubelskie,1069,3304,309,https://pl.wikipedia.org/wiki/Tarnogr%C3%B3d,50.361111,22.741667,0988069,<10k
+Tarnowskie Góry,tarnogórski,śląskie,8388,61756,736,https://pl.wikipedia.org/wiki/Tarnowskie_G%C3%B3ry,50.444444,18.855556,0943813,>50k
+Tarnów,Tarnów[a],małopolskie,7238,107498,1485,https://pl.wikipedia.org/wiki/Tarn%C3%B3w,50.029167,20.971667,0981570,>100k
+Tczew,tczewski,pomorskie,2238,59430,2655,https://pl.wikipedia.org/wiki/Tczew,54.092192,18.777331,0934903,>50k
+Terespol,bialski,lubelskie,1011,5457,540,https://pl.wikipedia.org/wiki/Terespol,52.074167,23.611111,0922343,<10k
+Tłuszcz,wołomiński,mazowieckie,791,8167,1032,https://pl.wikipedia.org/wiki/T%C5%82uszcz_(powiat_wo%C5%82omi%C5%84ski),52.43,21.436389,0966441,<10k
+Tolkmicko,elbląski,warmińsko-mazurskie,229,2644,1155,https://pl.wikipedia.org/wiki/Tolkmicko,54.320219,19.527314,0933000,<10k
+Tomaszów Lubelski,tomaszowski,lubelskie,1329,18783,1413,https://pl.wikipedia.org/wiki/Tomasz%C3%B3w_Lubelski,50.453056,23.419167,0988075,>10k
+Tomaszów Mazowiecki,tomaszowski,łódzkie,4130,61338,1485,https://pl.wikipedia.org/wiki/Tomasz%C3%B3w_Mazowiecki,51.531389,20.008889,0968300,>50k
+Toruń,Toruń[a],kujawsko-pomorskie,11572,198613,1716,https://pl.wikipedia.org/wiki/Toru%C5%84,53.022222,18.611111,0982724,>100k
+Torzym,sulęciński,lubuskie,911,2520,277,https://pl.wikipedia.org/wiki/Torzym,52.312778,15.077778,0915484,<10k
+Toszek,gliwicki,śląskie,971,3569,368,https://pl.wikipedia.org/wiki/Toszek,50.454167,18.522222,0944126,<10k
+Trzcianka,czarnkowsko-trzcianecki,wielkopolskie,1830,17009,929,https://pl.wikipedia.org/wiki/Trzcianka,53.041667,16.461111,0967162,>10k
+Trzciel,międzyrzecki,lubuskie,304,2339,769,https://pl.wikipedia.org/wiki/Trzciel,52.364722,15.872778,0935771,<10k
+Trzcińsko-Zdrój,gryfiński,zachodniopomorskie,233,2200,944,https://pl.wikipedia.org/wiki/Trzci%C5%84sko-Zdr%C3%B3j,52.965278,14.608056,0979952,<10k
+Trzebiatów,gryficki,zachodniopomorskie,1025,9899,966,https://pl.wikipedia.org/wiki/Trzebiat%C3%B3w,54.057222,15.278611,0979969,<10k
+Trzebinia,chrzanowski,małopolskie,3194,19507,611,https://pl.wikipedia.org/wiki/Trzebinia,50.159722,19.470556,0944149,>10k
+Trzebnica,trzebnicki,dolnośląskie,1061,13314,1255,https://pl.wikipedia.org/wiki/Trzebnica,51.305,17.061389,0987383,>10k
+Trzemeszno,gnieźnieński,wielkopolskie,546,7606,1393,https://pl.wikipedia.org/wiki/Trzemeszno,52.561111,17.822222,0929701,<10k
+Tuchola,tucholski,kujawsko-pomorskie,1769,13534,765,https://pl.wikipedia.org/wiki/Tuchola,53.58725,17.861167,0929724,>10k
+Tuchów,tarnowski,małopolskie,1810,6510,360,https://pl.wikipedia.org/wiki/Tuch%C3%B3w,49.895,21.054167,0982457,<10k
+Tuczno,wałecki,zachodniopomorskie,921,1919,208,https://pl.wikipedia.org/wiki/Tuczno,53.193889,16.154444,0967185,<10k
+Tuliszków,turecki,wielkopolskie,700,3204,458,https://pl.wikipedia.org/wiki/Tuliszk%C3%B3w,52.076389,18.293611,0949320,<10k
+Tułowice,opolski,opolskie,923,4026,436,https://pl.wikipedia.org/wiki/Tu%C5%82owice,50.599167,17.648889,0504090,<10k
+Turek,turecki,wielkopolskie,1617,26441,1635,https://pl.wikipedia.org/wiki/Turek,52.013333,18.485278,0949336,>10k
+Tuszyn,łódzki wschodni,łódzkie,2325,7237,311,https://pl.wikipedia.org/wiki/Tuszyn,51.609167,19.53,0968569,<10k
+Twardogóra,oleśnicki,dolnośląskie,829,6597,796,https://pl.wikipedia.org/wiki/Twardog%C3%B3ra,51.364722,17.469722,0987390,<10k
+Tychowo,białogardzki,zachodniopomorskie,396,2485,628,https://pl.wikipedia.org/wiki/Tychowo,53.928333,16.258056,0313839,<10k
+Tychy,Tychy[a],śląskie,8181,126871,1551,https://pl.wikipedia.org/wiki/Tychy,50.123611,18.986667,0944534,>100k
+Tyczyn,rzeszowski,podkarpackie,967,3983,412,https://pl.wikipedia.org/wiki/Tyczyn,49.965278,22.033056,0975078,<10k
+Tykocin,białostocki,podlaskie,2897,1966,68,https://pl.wikipedia.org/wiki/Tykocin,53.205556,22.770833,0043446,<10k
+Tyszowce,tomaszowski,lubelskie,1852,2054,111,https://pl.wikipedia.org/wiki/Tyszowce,50.618333,23.709722,0903676,<10k
+Ujazd,strzelecki,opolskie,1476,1734,117,https://pl.wikipedia.org/wiki/Ujazd,50.390556,18.354167,0965967,<10k
+Ujście,pilski,wielkopolskie,578,3623,627,https://pl.wikipedia.org/wiki/Uj%C5%9Bcie_(miasto),53.0525,16.733056,0967191,<10k
+Ulanów,niżański,podkarpackie,820,1427,174,https://pl.wikipedia.org/wiki/Ulan%C3%B3w,50.490278,22.265278,0981386,<10k
+Uniejów,poddębicki,łódzkie,1223,2957,242,https://pl.wikipedia.org/wiki/Uniej%C3%B3w,51.97,18.800278,0949359,<10k
+Urzędów,kraśnicki,lubelskie,1291,1679,130,https://pl.wikipedia.org/wiki/Urz%C4%99d%C3%B3w,50.993056,22.1425,0392684,<10k
+Ustka,słupski,pomorskie,1019,15199,1492,https://pl.wikipedia.org/wiki/Ustka,54.578611,16.869167,0977427,>10k
+Ustroń,cieszyński,śląskie,5903,15989,271,https://pl.wikipedia.org/wiki/Ustro%C5%84,49.719167,18.812222,0926677,>10k
+Ustrzyki Dolne,bieszczadzki,podkarpackie,1679,8917,531,https://pl.wikipedia.org/wiki/Ustrzyki_Dolne,49.429722,22.586667,0953817,<10k
+Wadowice,wadowicki,małopolskie,1054,18379,1744,https://pl.wikipedia.org/wiki/Wadowice,49.8825,19.494444,0926921,>10k
+Wałbrzych,Wałbrzych[a],dolnośląskie,8470,109971,1298,https://pl.wikipedia.org/wiki/Wa%C5%82brzych,50.770833,16.273889,0983681,>100k
+Wałcz,wałecki,zachodniopomorskie,3817,24949,654,https://pl.wikipedia.org/wiki/Wa%C5%82cz,53.276944,16.463333,0967245,>10k
+Warka,grójecki,mazowieckie,2677,11926,445,https://pl.wikipedia.org/wiki/Warka,51.783333,21.186389,0973978,>10k
+Warszawa,m.st. Warszawa[a],mazowieckie,51724,1794166,3469,https://pl.wikipedia.org/wiki/Warszawa,52.232222,21.008333,0918123,>500k
+Warta,sieradzki,łódzkie,1085,3208,296,https://pl.wikipedia.org/wiki/Warta_(miasto),51.708056,18.625,0976557,<10k
+Wasilków,białostocki,podlaskie,2826,11802,418,https://pl.wikipedia.org/wiki/Wasilk%C3%B3w,53.2,23.204444,0923526,>10k
+Wąbrzeźno,wąbrzeski,kujawsko-pomorskie,853,13400,1571,https://pl.wikipedia.org/wiki/W%C4%85brze%C5%BAno,53.279722,18.945833,0983652,>10k
+Wąchock,starachowicki,świętokrzyskie,1602,2724,170,https://pl.wikipedia.org/wiki/W%C4%85chock,51.074167,21.013611,0276802,<10k
+Wągrowiec,wągrowiecki,wielkopolskie,1783,25607,1436,https://pl.wikipedia.org/wiki/W%C4%85growiec,52.806944,17.206944,0967297,>10k
+Wąsosz,górowski,dolnośląskie,324,2647,817,https://pl.wikipedia.org/wiki/W%C4%85sosz_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie),51.563056,16.691944,0954662,<10k
+Wejherowo,wejherowski,pomorskie,2699,49099,1819,https://pl.wikipedia.org/wiki/Wejherowo,54.604167,18.248889,0934984,>10k
+Węgliniec,zgorzelecki,dolnośląskie,873,2802,321,https://pl.wikipedia.org/wiki/W%C4%99gliniec,51.288333,15.225556,0936492,<10k
+Węgorzewo,węgorzewski,warmińsko-mazurskie,1088,11144,1024,https://pl.wikipedia.org/wiki/W%C4%99gorzewo,54.213889,21.741389,0977947,>10k
+Węgorzyno,łobeski,zachodniopomorskie,685,2771,405,https://pl.wikipedia.org/wiki/W%C4%99gorzyno,53.538889,15.562778,0980062,<10k
+Węgrów,węgrowski,mazowieckie,3551,12452,351,https://pl.wikipedia.org/wiki/W%C4%99gr%C3%B3w,52.399167,22.016389,0975871,>10k
+Wiązów,strzeliński,dolnośląskie,916,2198,240,https://pl.wikipedia.org/wiki/Wi%C4%85z%C3%B3w,50.815278,17.203611,0987437,<10k
+Wielbark,szczycieński,warmińsko-mazurskie,1842,2981,162,https://pl.wikipedia.org/wiki/Wielbark,53.397778,20.946111,0490470,<10k
+Wieleń,czarnkowsko-trzcianecki,wielkopolskie,446,5758,1291,https://pl.wikipedia.org/wiki/Wiele%C5%84,52.892222,16.173611,0967334,<10k
+Wielichowo,grodziski,wielkopolskie,124,1774,1431,https://pl.wikipedia.org/wiki/Wielichowo,52.118889,16.349444,0971620,<10k
+Wieliczka,wielicki,małopolskie,1341,24215,1806,https://pl.wikipedia.org/wiki/Wieliczka,49.986111,20.061667,0952232,>10k
+Wieluń,wieluński,łódzkie,1687,21892,1298,https://pl.wikipedia.org/wiki/Wielu%C5%84,51.2225,18.573889,0976586,>10k
+Wieruszów,wieruszowski,łódzkie,597,8446,1415,https://pl.wikipedia.org/wiki/Wierusz%C3%B3w,51.295278,18.151944,0937400,<10k
+Więcbork,sępoleński,kujawsko-pomorskie,431,5900,1369,https://pl.wikipedia.org/wiki/Wi%C4%99cbork,53.35,17.483333,0929820,<10k
+Wilamowice,bielski,śląskie,1036,3142,303,https://pl.wikipedia.org/wiki/Wilamowice,49.916389,19.151944,0926996,<10k
+Wiskitki,żyrardowski,mazowieckie,661,1347,204,https://pl.wikipedia.org/wiki/Wiskitki,52.086944,20.382778,0739656[3],<10k
+Wisła,cieszyński,śląskie,11017,11007,100,https://pl.wikipedia.org/wiki/Wis%C5%82a_(miasto),49.647222,18.8675,0927091,>10k
+Wiślica,buski,świętokrzyskie,471,506,107,https://pl.wikipedia.org/wiki/Wi%C5%9Blica,50.348611,20.674167,0277470,<10k
+Witkowo,gnieźnieński,wielkopolskie,831,7706,927,https://pl.wikipedia.org/wiki/Witkowo,52.438889,17.774167,0949388,<10k
+Witnica,gorzowski,lubuskie,824,6666,809,https://pl.wikipedia.org/wiki/Witnica,52.677778,14.891389,0935794,<10k
+Wleń,lwówecki,dolnośląskie,722,1725,239,https://pl.wikipedia.org/wiki/Wle%C5%84,51.016667,15.670556,0936500,<10k
+Władysławowo,pucki,pomorskie,1367,9830,719,https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82awowo,54.793092,18.414358,0935015,<10k
+Włocławek,Włocławek[a],kujawsko-pomorskie,8508,108561,1276,https://pl.wikipedia.org/wiki/W%C5%82oc%C5%82awek,52.660833,19.068611,0984752,>100k
+Włodawa,włodawski,lubelskie,1797,12915,719,https://pl.wikipedia.org/wiki/W%C5%82odawa,51.544722,23.547778,0930294,>10k
+Włoszczowa,włoszczowski,świętokrzyskie,3030,9798,323,https://pl.wikipedia.org/wiki/W%C5%82oszczowa,50.854167,19.966944,0948472,<10k
+Wodzisław,jędrzejowski,świętokrzyskie,794,1082,136,https://pl.wikipedia.org/wiki/Wodzis%C5%82aw,50.52,20.190556,0279686,<10k
+Wodzisław Śląski,wodzisławski,śląskie,4951,47576,961,https://pl.wikipedia.org/wiki/Wodzis%C5%82aw_%C5%9Al%C4%85ski,50.002778,18.463056,0944853,>10k
+Wojcieszów,złotoryjski,dolnośląskie,3217,3572,111,https://pl.wikipedia.org/wiki/Wojciesz%C3%B3w,50.954722,15.923056,0936517,<10k
+Wojkowice,będziński,śląskie,1279,8877,694,https://pl.wikipedia.org/wiki/Wojkowice,50.364722,19.036667,0945232,<10k
+Wojnicz,tarnowski,małopolskie,850,3310,389,https://pl.wikipedia.org/wiki/Wojnicz,49.957778,20.839444,0836276,<10k
+Wolbórz,piotrkowski,łódzkie,1518,2301,152,https://pl.wikipedia.org/wiki/Wolb%C3%B3rz,51.500833,19.832222,0556648,<10k
+Wolbrom,olkuski,małopolskie,1012,8480,838,https://pl.wikipedia.org/wiki/Wolbrom,50.385556,19.759444,0945315,<10k
+Wolin,kamieński,zachodniopomorskie,1447,4739,328,https://pl.wikipedia.org/wiki/Wolin_(miasto),53.841389,14.611389,0980079,<10k
+Wolsztyn,wolsztyński,wielkopolskie,478,12859,2690,https://pl.wikipedia.org/wiki/Wolsztyn,52.114167,16.116944,0988632,>10k
+Wołczyn,kluczborski,opolskie,747,5787,775,https://pl.wikipedia.org/wiki/Wo%C5%82czyn,51.018556,18.048278,0965996,<10k
+Wołomin,wołomiński,mazowieckie,1724,36848,2137,https://pl.wikipedia.org/wiki/Wo%C5%82omin,52.346667,21.241944,0921792,>10k
+Wołów,wołowski,dolnośląskie,1854,12298,663,https://pl.wikipedia.org/wiki/Wo%C5%82%C3%B3w,51.336667,16.644444,0987466,>10k
+Woźniki,lubliniecki,śląskie,7101,4298,61,https://pl.wikipedia.org/wiki/Wo%C5%BAniki,50.586667,19.060556,0932494,<10k
+Wrocław,Wrocław[a],dolnośląskie,29282,641928,2192,https://pl.wikipedia.org/wiki/Wroc%C5%82aw,51.11,17.022222,0986283,>500k
+Wronki,szamotulski,wielkopolskie,581,11064,1904,https://pl.wikipedia.org/wiki/Wronki,52.707778,16.378611,0967386,>10k
+Września,wrzesiński,wielkopolskie,1273,31000,2435,https://pl.wikipedia.org/wiki/Wrze%C5%9Bnia,52.325111,17.56525,0971637,>10k
+Wschowa,wschowski,lubuskie,925,13717,1483,https://pl.wikipedia.org/wiki/Wschowa,51.801389,16.315556,0954685,>10k
+Wyrzysk,pilski,wielkopolskie,412,5131,1245,https://pl.wikipedia.org/wiki/Wyrzysk,53.153611,17.266944,0967392,<10k
+Wysoka,pilski,wielkopolskie,482,2614,542,https://pl.wikipedia.org/wiki/Wysoka_(powiat_pilski),53.181667,17.079722,0967417,<10k
+Wysokie Mazowieckie,wysokomazowiecki,podlaskie,1524,9336,613,https://pl.wikipedia.org/wiki/Wysokie_Mazowieckie,52.916667,22.514444,0957620,<10k
+Wyszków,wyszkowski,mazowieckie,2078,26980,1298,https://pl.wikipedia.org/wiki/Wyszk%C3%B3w,52.593056,21.459167,0966470,>10k
+Wyszogród,płocki,mazowieckie,1297,2569,198,https://pl.wikipedia.org/wiki/Wyszogr%C3%B3d_(wojew%C3%B3dztwo_mazowieckie),52.388889,20.190833,0969356,<10k
+Wyśmierzyce,białobrzeski,mazowieckie,1684,896,53,https://pl.wikipedia.org/wiki/Wy%C5%9Bmierzyce,51.625,20.813333,0974044,<10k
+Zabłudów,białostocki,podlaskie,1430,2490,174,https://pl.wikipedia.org/wiki/Zab%C5%82ud%C3%B3w,53.015278,23.335278,0923578,<10k
+Zabrze,Zabrze[a],śląskie,8040,170924,2126,https://pl.wikipedia.org/wiki/Zabrze,50.3025,18.778056,0945380,>100k
+Zagórów,słupecki,wielkopolskie,344,2902,844,https://pl.wikipedia.org/wiki/Zag%C3%B3r%C3%B3w,52.165556,17.891667,0949431,<10k
+Zagórz,sanocki,podkarpackie,2229,5093,228,https://pl.wikipedia.org/wiki/Zag%C3%B3rz,49.502778,22.261944,0953881,<10k
+Zakliczyn,tarnowski,małopolskie,402,1628,405,https://pl.wikipedia.org/wiki/Zakliczyn,49.856111,20.813889,0837436,<10k
+Zaklików,stalowowolski,podkarpackie,1142,2954,259,https://pl.wikipedia.org/wiki/Zaklik%C3%B3w,50.756667,22.101667,0810615,<10k
+Zakopane,tatrzański,małopolskie,8426,26846,319,https://pl.wikipedia.org/wiki/Zakopane,49.299444,19.951944,0963773,>10k
+Zakroczym,nowodworski,mazowieckie,1997,3149,158,https://pl.wikipedia.org/wiki/Zakroczym,52.433333,20.611944,0921869,<10k
+Zalewo,iławski,warmińsko-mazurskie,822,2129,259,https://pl.wikipedia.org/wiki/Zalewo,53.845872,19.603492,0965000,<10k
+Zambrów,zambrowski,podlaskie,1902,21921,1153,https://pl.wikipedia.org/wiki/Zambr%C3%B3w,52.985556,22.241111,0957637,>10k
+Zamość,Zamość[a],lubelskie,3034,62785,2069,https://pl.wikipedia.org/wiki/Zamo%C5%9B%C4%87,50.720556,23.258611,0987510,>50k
+Zator,oświęcimski,małopolskie,1152,3616,314,https://pl.wikipedia.org/wiki/Zator_(wojew%C3%B3dztwo_ma%C5%82opolskie),49.996389,19.438056,0927576,<10k
+Zawadzkie,strzelecki,opolskie,1646,7032,427,https://pl.wikipedia.org/wiki/Zawadzkie,50.609444,18.48,0966004,<10k
+Zawichost,sandomierski,świętokrzyskie,2029,1713,84,https://pl.wikipedia.org/wiki/Zawichost,50.806667,21.856389,0981417,<10k
+Zawidów,zgorzelecki,dolnośląskie,607,4132,681,https://pl.wikipedia.org/wiki/Zawid%C3%B3w,51.02615,15.062383,0936523,<10k
+Zawiercie,zawierciański,śląskie,8525,48703,571,https://pl.wikipedia.org/wiki/Zawiercie,50.4875,19.416389,0945491,>10k
+Ząbki,wołomiński,mazowieckie,1098,38546,3511,https://pl.wikipedia.org/wiki/Z%C4%85bki,52.292778,21.116111,0921958,>10k
+Ząbkowice Śląskie,ząbkowicki,dolnośląskie,1367,14728,1077,https://pl.wikipedia.org/wiki/Z%C4%85bkowice_%C5%9Al%C4%85skie,50.591408,16.812742,0984692,>10k
+Zbąszynek,świebodziński,lubuskie,358,4997,1396,https://pl.wikipedia.org/wiki/Zb%C4%85szynek,52.242222,15.816389,0988649,<10k
+Zbąszyń,nowotomyski,wielkopolskie,542,7213,1331,https://pl.wikipedia.org/wiki/Zb%C4%85szy%C5%84,52.253056,15.917778,0988655,<10k
+Zduny,krotoszyński,wielkopolskie,620,4445,717,https://pl.wikipedia.org/wiki/Zduny,51.646389,17.377778,0937439,<10k
+Zduńska Wola,zduńskowolski,łódzkie,2457,41288,1680,https://pl.wikipedia.org/wiki/Zdu%C5%84ska_Wola,51.606111,18.939167,0976675,>10k
+Zdzieszowice,krapkowicki,opolskie,1235,11246,911,https://pl.wikipedia.org/wiki/Zdzieszowice,50.419167,18.123611,0966040,>10k
+Zelów,bełchatowski,łódzkie,1075,7459,694,https://pl.wikipedia.org/wiki/Zel%C3%B3w,51.466667,19.221389,0968664,<10k
+Zgierz,zgierski,łódzkie,4233,55673,1315,https://pl.wikipedia.org/wiki/Zgierz,51.855,19.406111,0959263,>50k
+Zgorzelec,zgorzelecki,dolnośląskie,1588,29810,1877,https://pl.wikipedia.org/wiki/Zgorzelec,51.150278,15.008611,0936546,>10k
+Zielona Góra,Zielona Góra[a],lubuskie,27826,140892,506,https://pl.wikipedia.org/wiki/Zielona_G%C3%B3ra,51.939722,15.505,0988313[3],>100k
+Zielonka,wołomiński,mazowieckie,7948,17486,220,https://pl.wikipedia.org/wiki/Zielonka_(powiat_wo%C5%82omi%C5%84ski),52.303333,21.160556,0921970,>10k
+Ziębice,ząbkowicki,dolnośląskie,1507,8531,566,https://pl.wikipedia.org/wiki/Zi%C4%99bice,50.6,17.044444,0984700,<10k
+Złocieniec,drawski,zachodniopomorskie,3228,12706,394,https://pl.wikipedia.org/wiki/Z%C5%82ocieniec,53.529167,16.011944,0950374,>10k
+Złoczew,sieradzki,łódzkie,1379,3340,242,https://pl.wikipedia.org/wiki/Z%C5%82oczew,51.414722,18.607222,0976830,<10k
+Złotoryja,złotoryjski,dolnośląskie,1151,15273,1327,https://pl.wikipedia.org/wiki/Z%C5%82otoryja,51.123889,15.919444,0954219,>10k
+Złotów,złotowski,wielkopolskie,1158,18437,1592,https://pl.wikipedia.org/wiki/Z%C5%82ot%C3%B3w,53.360278,17.040833,0967423,>10k
+Złoty Stok,ząbkowicki,dolnośląskie,773,2696,349,https://pl.wikipedia.org/wiki/Z%C5%82oty_Stok,50.446389,16.883056,0984723,<10k
+Zwierzyniec,zamojski,lubelskie,619,3101,501,https://pl.wikipedia.org/wiki/Zwierzyniec_(powiat_zamojski),50.614444,22.966944,0988253,<10k
+Zwoleń,zwoleński,mazowieckie,1591,7660,481,https://pl.wikipedia.org/wiki/Zwole%C5%84_(powiat_zwole%C5%84ski),51.356944,21.583889,0974096,<10k
+Żabno,tarnowski,małopolskie,1113,4184,376,https://pl.wikipedia.org/wiki/%C5%BBabno,50.132778,20.885278,0982641,<10k
+Żagań,żagański,lubuskie,4038,25265,626,https://pl.wikipedia.org/wiki/%C5%BBaga%C5%84,51.617222,15.314722,0988661,>10k
+Żarki,myszkowski,śląskie,2544,4538,178,https://pl.wikipedia.org/wiki/%C5%BBarki,50.624167,19.363889,0932643,<10k
+Żarów,świdnicki,dolnośląskie,757,6648,878,https://pl.wikipedia.org/wiki/%C5%BBar%C3%B3w,50.940556,16.494444,0984746,<10k
+Żary,żarski,lubuskie,3349,37052,1106,https://pl.wikipedia.org/wiki/%C5%BBary,51.636667,15.136667,0988684,>10k
+Żelechów,garwoliński,mazowieckie,1213,3895,321,https://pl.wikipedia.org/wiki/%C5%BBelech%C3%B3w,51.809722,21.895833,0975983,<10k
+Żerków,jarociński,wielkopolskie,216,2109,976,https://pl.wikipedia.org/wiki/%C5%BBerk%C3%B3w,52.068333,17.562778,0937445,<10k
+Żmigród,trzebnicki,dolnośląskie,949,6444,679,https://pl.wikipedia.org/wiki/%C5%BBmigr%C3%B3d,51.470278,16.905,0987503,<10k
+Żnin,żniński,kujawsko-pomorskie,835,13623,1631,https://pl.wikipedia.org/wiki/%C5%BBnin,52.84942,17.719514,0929865,>10k
+Żory,Żory[a],śląskie,6464,62844,972,https://pl.wikipedia.org/wiki/%C5%BBory,50.045556,18.694722,0945746,>50k
+Żukowo,kartuski,pomorskie,473,6728,1422,https://pl.wikipedia.org/wiki/%C5%BBukowo,54.345833,18.360556,0935127,<10k
+Żuromin,żuromiński,mazowieckie,1118,8756,783,https://pl.wikipedia.org/wiki/%C5%BBuromin,53.066667,19.909167,0930851,<10k
+Żychlin,kutnowski,łódzkie,868,7964,918,https://pl.wikipedia.org/wiki/%C5%BBychlin,52.245278,19.623611,0969391,<10k
+Żyrardów,żyrardowski,mazowieckie,1435,39550,2756,https://pl.wikipedia.org/wiki/%C5%BByrard%C3%B3w,52.054167,20.444444,0977210,>10k
+Żywiec,żywiecki,śląskie,5054,30733,608,https://pl.wikipedia.org/wiki/%C5%BBywiec,49.689167,19.205833,0927642,>10k
