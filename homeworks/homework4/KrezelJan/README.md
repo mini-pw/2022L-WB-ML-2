@@ -1,0 +1,1 @@
+Podgląd notatników i HTML nie radzi sobie z interaktywnymi wykresami plotly, dlatego wrzucam do folderu ```preview``` zdjęcia wykresów.
